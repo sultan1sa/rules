@@ -3,7 +3,6 @@ DOMAIN,nicegram
 DOMAIN,telegram
 DOMAIN,turrit
 DOMAIN,swiftgram
-DOMAIN,domain_suffix_set:
 DOMAIN,comments.app
 DOMAIN,contest.com
 DOMAIN,graph.org
@@ -25,17 +24,14 @@ DOMAIN,telesco.pe
 DOMAIN,tg.dev
 DOMAIN,tx.me
 DOMAIN,usercontent.dev
-DOMAIN,ip_cidr_set:
 IP-CIDR,109.239.140.0/24
 IP-CIDR,149.154.160.0/20
 IP-CIDR,5.28.192.0/18
 IP-CIDR,91.108.0.0/16
-DOMAIN,ip_cidr6_set:
 IP-CIDR6,2001:67c:4e8::/48
 IP-CIDR6,2001:b28:f23c::/47
 IP-CIDR6,2001:b28:f23f::/48
 IP-CIDR6,2a0a:f280::/32
-DOMAIN,asn_set:
 DOMAIN,211157
 DOMAIN,44907
 DOMAIN,59930
