@@ -1,0 +1,159 @@
+#UNITED STATES 
+HOST-KEYWORD,USA,PROXY
+HOST-KEYWORD,US,PROXY
+
+# Gmail
+DOMAIN,imap.gmail.com,DIRECT
+DOMAIN,smtp.gmail.com,DIRECT
+DOMAIN,pop.gmail.com,DIRECT
+# Outlook
+DOMAIN-SUFFIX,m.hotmail.com,DIRECT
+DOMAIN,outlook.office365.com,DIRECT
+DOMAIN,imap-mail.outlook.com,DIRECT
+DOMAIN,smtp-mail.outlook.com,DIRECT
+DOMAIN,smtp.office365.com,DIRECT
+
+# GitHub BYOIP
+IP-CIDR,185.199.108.0/22,DIRECT
+# Cloudflare NTP
+IP-CIDR,162.159.200.1/32,PROXY
+IP-CIDR,162.159.200.123/32,PROXY
+
+# > 1password
+DOMAIN-KEYWORD,1password,DIRECT
+DOMAIN-SUFFIX,1passwordservices.com,DIRECT
+DOMAIN-SUFFIX,1password.ca,DIRECT
+DOMAIN-SUFFIX,1password.eu,DIRECT
+DOMAIN-SUFFIX,1password.com,DIRECT
+
+# yahoo
+DOMAIN,apple.imap.mail.yahoo.com,DIRECT
+DOMAIN,apple.smtp.mail.yahoo.com,DIRECT
+# yandex
+DOMAIN-SUFFIX,imap.yandex.com,PROXY
+DOMAIN-SUFFIX,smtp.yandex.com,PROXY
+
+# Direct+
+DOMAIN,app.adjust.com,PROXY
+DOMAIN,app.appsflyer.com,PROXY
+
+# core
+DOMAIN-SUFFIX,tw,DIRECT
+DOMAIN-KEYWORD,google,PROXY
+DOMAIN-SUFFIX,gstatic.com,DIRECT
+DOMAIN-SUFFIX,ampproject.org,DIRECT
+DOMAIN-KEYWORD,gmail,DIRECT
+DOMAIN-KEYWORD,youtube,PROXY
+DOMAIN-KEYWORD,facebook,DIRECT
+DOMAIN-SUFFIX,fb.me,DIRECT
+DOMAIN-SUFFIX,fbcdn.net,DIRECT
+DOMAIN-KEYWORD,twitter,DIRECT
+DOMAIN-KEYWORD,instagram,DIRECT
+DOMAIN-KEYWORD,dropbox,DIRECT
+DOMAIN-SUFFIX,twimg.com,DIRECT
+DOMAIN-KEYWORD,blogspot,DIRECT
+DOMAIN-SUFFIX,youtu.be,PROXY
+DOMAIN-SUFFIX,oculuscdn.com,DIRECT
+DOMAIN-SUFFIX,oculus.com,DIRECT
+DOMAIN-KEYWORD,whatsapp,DIRECT
+DOMAIN-SUFFIX,letsencrypt.org,DIRECT
+DOMAIN-SUFFIX,android.com,DIRECT
+DOMAIN-SUFFIX,ytimg.com,DIRECT
+DOMAIN-SUFFIX,githubusercontent.com,DIRECT
+# Keywords
+DOMAIN-KEYWORD,discord,DIRECT
+DOMAIN-KEYWORD,github,DIRECT
+DOMAIN-KEYWORD,gstatic,DIRECT
+DOMAIN-KEYWORD,microsoft,PROXY
+DOMAIN-KEYWORD,nvidia,PROXY
+DOMAIN-KEYWORD,spotifyDIRECT
+DOMAIN-KEYWORD,amazon,PROXY
+
+# ---(Alphabet)---
+DOMAIN-SUFFIX,blog.google,DIRECT
+DOMAIN,ci.android.com,DIRECT
+DOMAIN,clientservices.googleapis.com,DIRECT
+DOMAIN,update.googleapis.com,DIRECT
+DOMAIN,dl.google.com,DIRECT
+DOMAIN,dl.l.google.com,DIRECT
+DOMAIN,redirector.gvt1.com,DIRECT
+# > Google Flights
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+# > Firebase Cloud Messaging
+DOMAIN,mtalk.google.com,DIRECT
+DOMAIN,alt1-mtalk.google.com,DIRECT
+DOMAIN,alt2-mtalk.google.com,DIRECT
+DOMAIN,alt3-mtalk.google.com,DIRECT
+DOMAIN,alt4-mtalk.google.com,DIRECT
+DOMAIN,alt5-mtalk.google.com,DIRECT
+DOMAIN,alt6-mtalk.google.com,DIRECT
+DOMAIN,alt7-mtalk.google.com,DIRECT
+DOMAIN,alt8-mtalk.google.com,DIRECT
+
+# > AppleID
+host, appleid.apple.com, DIRECT
+host, appleid.cdn-apple.com, DIRECT
+host, gsa.apple.com, DIRECT
+host, idmsa.apple.com, DIRECT
+
+# > Cloudflare
+host-suffix, warp.plus, PROXY
+host-suffix, cloudflare.com, PROXY
+host-suffix, cloudflare.net, PROXY
+host-suffix, cloudflareclient.com, PROXY
+
+# > Tutanota
+host-suffix, tuta.com, DIRECT
+host-suffix, tutanota.com, DIRECT
+
+# > Proton
+host-suffix, pm.me, DIRECT
+host-suffix, protonmail.com, DIRECT
+host-suffix, proton.me, DIRECT
+
+# > Deepl
+host-suffix, deepl.com, DIRECT
+
+# > DuckDuckGo
+host-suffix, duckduckgo.com, proxy
+HOST-KEYWORD, mail, DIRECT
+host-keyword, tiktok, DIRECT 
+
+# > Google
+IP-CIDR,35.190.247.0/24,PROXY
+IP-CIDR,64.233.160.0/19,PROXY
+IP-CIDR,66.102.0.0/20,PROXY
+IP-CIDR,66.249.80.0/20,PROXY
+IP-CIDR,72.14.192.0/18,PROXY
+IP-CIDR,74.125.0.0/16,PROXY
+IP-CIDR,108.177.8.0/21,PROXY
+IP-CIDR,172.217.0.0/16,PROXY
+IP-CIDR,173.194.0.0/16,PROXY
+IP-CIDR,209.85.128.0/17,PROXY
+IP-CIDR,216.58.192.0/19,PROXY
+IP-CIDR,216.239.32.0/19,PROXY
+host-suffix,google.com,PROXY
+
+# (Region-Restricted Access Denied)
+# ---(Apple)---
+# > Apple URL Shortener
+host-suffix,appsto.re,PROXY
+# > iBooks Store download
+host,books.itunes.apple.com,PROXY
+# > App Store Preview
+host,apps.apple.com,PROXY
+host,itunes.apple.com,PROXY
+# > Spotlight
+host,api-glb-sea.smoot.apple.com,PROXY
+# > Look Up
+host-suffix,smoot.apple.com,PROXY
+host,lookup-api.apple.com,PROXY
+# > Apple Music Web
+host,beta.music.apple.com,PROXY
+# ------
+# > Others
+host-suffix,bing.com,PROXY
+
+
+# > Dropbox
+host-suffix,dropbox.com,DIRECT
