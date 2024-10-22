@@ -1,0 +1,403 @@
+#  MAP
+DOMAIN-SUFFIX,gstatic.com,PROXY
+DOMAIN-SUFFIX,goo.gl,PROXY
+DOMAIN-SUFFIX,googleusercontent.com,PROXY
+DOMAIN-SUFFIX,googlesyndication.com,PROXY
+#  BLOGGER
+DOMAIN-SUFFIX,blogger.com,PROXY
+#  GMAIL
+DOMAIN-SUFFIX,gmail.com,PROXY
+#  AD
+DOMAIN-SUFFIX,googleadservices.com,PROXY
+# Calendar
+DOMAIN-SUFFIX,calendar.com,PROXY
+DOMAIN-SUFFIX,static.zdassets.com,PROXY
+# CHROMIUM.ORG
+DOMAIN-SUFFIX,chromium.org,PROXY
+# GOOGLEBLOG
+DOMAIN-SUFFIX,googleblog.com,PROXY
+
+# ========== SOFT ==========
+DOMAIN-SUFFIX,duetdisplay.com,PROXY
+DOMAIN-SUFFIX,rime.im,PROXY
+# Termius
+DOMAIN-SUFFIX,termius.com,PROXY
+DOMAIN-SUFFIX,webflow.com,PROXY
+DOMAIN-SUFFIX,gitbook.com,PROXY
+DOMAIN-SUFFIX,firebaseio.com,PROXY
+# MindNode
+DOMAIN-SUFFIX,mindnode.com,PROXY
+DOMAIN-SUFFIX,analytics.ideasoncanvas.com,PROXY
+DOMAIN-SUFFIX,picpick.app,PROXY
+DOMAIN-SUFFIX,discord.com,PROXY
+# Divoom
+DOMAIN-SUFFIX,divoom.com,PROXY
+DOMAIN-SUFFIX,gstatic.com,PROXY
+DOMAIN-SUFFIX,chatra.io,PROXY
+# Tiktok
+DOMAIN-SUFFIX,tiktok.com,PROXY
+
+# ========== APPLE ==========
+DOMAIN-SUFFIX,itunes.apple.com,PROXY
+DOMAIN-SUFFIX,appleid.apple.com,PROXY
+DOMAIN-SUFFIX,communities.apple.com,PROXY
+DOMAIN-SUFFIX,discussions.apple.com,PROXY
+
+# ========== UTILITY ==========
+DOMAIN-SUFFIX,ifixit.com,PROXY
+# Noisli
+DOMAIN-SUFFIX,noisli.com,PROXY
+DOMAIN-SUFFIX,mxpnl.com,PROXY
+DOMAIN-SUFFIX,v2ray.com,PROXY
+DOMAIN-SUFFIX,justmysocks2.net,PROXY
+
+# ========== FORUMS ==========
+# v2ex
+DOMAIN-SUFFIX,v2ex.com,PROXY
+DOMAIN-SUFFIX,ko-fi.com,PROXY
+# MacRumors
+DOMAIN-SUFFIX,macrumors.com,PROXY
+DOMAIN-SUFFIX,sharethrough.com,PROXY
+DOMAIN-SUFFIX,nsstatic.net,PROXY
+DOMAIN-SUFFIX,yumenetworks.com,PROXY
+DOMAIN-SUFFIX,mgr.consensu.org,PROXY
+DOMAIN-SUFFIX,scorecardresearch.com,PROXY
+DOMAIN-SUFFIX,amazon-adsystem.com,PROXY
+DOMAIN-SUFFIX,ytimg.com,PROXY
+DOMAIN-SUFFIX,switchadhub.com,PROXY
+# WordPress
+DOMAIN-SUFFIX,wordpress.com,PROXY
+DOMAIN-SUFFIX,wordpress.org,PROXY
+DOMAIN-SUFFIX,gravatar.com,PROXY
+DOMAIN-SUFFIX,pinimg.com,PROXY
+# Quora
+DOMAIN-SUFFIX,quoracdn.net,PROXY
+DOMAIN-SUFFIX,quora.com,PROXY
+
+# ========== FINANCE ==========
+DOMAIN-SUFFIX, huobi.com, PROXY
+DOMAIN-SUFFIX, huobiasia.vip, PROXY
+DOMAIN-SUFFIX, woodpeckerlog.com, PROXY
+DOMAIN-SUFFIX, zopim.com, PROXY
+DOMAIN-SUFFIX, hbfile.net, PROXY
+DOMAIN-SUFFIX, zendesk.com, PROXY
+
+# ========== 3D Engine ==========
+DOMAIN-SUFFIX,threejs.org,PROXY
+
+# ========== DEVELOPER ==========
+DOMAIN-SUFFIX,videojs.com,PROXY
+DOMAIN-SUFFIX,ignimgs.com,PROXY
+DOMAIN-SUFFIX,zencdn.net,PROXY
+DOMAIN-SUFFIX,mux.com,PROXY
+DOMAIN-SUFFIX,unlock-music.dev,PROXY
+DOMAIN-SUFFIX,workers.dev,PROXY
+DOMAIN-SUFFIX,expressjs.com,PROXY
+DOMAIN-SUFFIX,pugjs.org,PROXY
+DOMAIN-SUFFIX,gradle.org,PROXY
+DOMAIN-SUFFIX,jquery.com,PROXY
+DOMAIN-SUFFIX,ruanyifeng.*,PROXY
+DOMAIN-SUFFIX,xdebug.org,PROXY
+DOMAIN-SUFFIX,vuejs.org,PROXY
+DOMAIN-SUFFIX,yapi.*,PROXY
+DOMAIN-SUFFIX,regexr.com,PROXY
+DOMAIN-SUFFIX,i.stack,PROXY
+DOMAIN-SUFFIX,webpackjs,PROXY
+DOMAIN-SUFFIX,webpack.js,PROXY
+DOMAIN-SUFFIX,gitter.im,PROXY
+DOMAIN-SUFFIX,apachefriends.com,PROXY
+DOMAIN-SUFFIX,gnu.org,PROXY
+DOMAIN-SUFFIX,fontawesome.com,PROXY
+DOMAIN-SUFFIX,w3schools.com,PROXY
+DOMAIN-SUFFIX,jslint.com,PROXY
+DOMAIN-SUFFIX,electronjs.org,PROXY
+#  GITHUB
+DOMAIN-SUFFIX,nr-data.net,PROXY
+DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,github.blog,PROXY
+DOMAIN-SUFFIX,githubassets.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
+DOMAIN-SUFFIX,github.community,PROXY
+DOMAIN-SUFFIX,vercel.app,PROXY
+DOMAIN-SUFFIX,discourse-cdn.com,PROXY
+#  STACKFLOW
+DOMAIN-SUFFIX,stackoverflow.com,PROXY
+DOMAIN-SUFFIX,stack.imgur.com,PROXY
+DOMAIN-SUFFIX,cdn.sstatic.net,PROXY
+DOMAIN-SUFFIX,stackexchange.com,PROXY
+DOMAIN-SUFFIX,scorecardresearch.com,PROXY
+DOMAIN-SUFFIX,quantcount.com,PROXY
+#  DISQUS
+DOMAIN-SUFFIX,disqus.com,PROXY
+DOMAIN-SUFFIX,disquscdn.com,PROXY
+#  DROP BOX
+DOMAIN-SUFFIX,dropbox.com,PROXY
+DOMAIN-SUFFIX,dropboxstatic.com,PROXY
+#  TAMPER MONKEY
+DOMAIN-SUFFIX,openuserjs.org,PROXY
+DOMAIN-SUFFIX,tampermonkey.net,PROXY
+#  Mozilla.org
+DOMAIN-SUFFIX,developer.mozilla.org,PROXY
+DOMAIN-SUFFIX,secure.gravatar.com,PROXY
+# CodeSandbox
+DOMAIN-SUFFIX,codesandbox.io,PROXY
+DOMAIN-SUFFIX,codefund.app,PROXY
+DOMAIN-SUFFIX,stripe.com,PROXY
+# Vue
+DOMAIN-SUFFIX,vimeo.com,PROXY
+# =JSfiddle
+DOMAIN-SUFFIX,fiddle.jshell.net,PROXY
+DOMAIN-SUFFIX,jsfiddle.net,PROXY
+#  SVG.js
+DOMAIN-SUFFIX,cdn.rawgit.com,PROXY
+DOMAIN-SUFFIX,jsfiddle.net,PROXY
+DOMAIN-SUFFIX,github.io,PROXY
+#  IDEA
+DOMAIN-SUFFIX,jetbrains.com,PROXY
+#  DISCORD
+DOMAIN-SUFFIX,discordapp.com,PROXY
+DOMAIN-SUFFIX,discordapp.net,PROXY
+#  NPMJS
+DOMAIN-SUFFIX,npmjs.com,PROXY
+#  PYTHON
+DOMAIN-SUFFIX,python.org,PROXY
+#  DOCKER
+DOMAIN-SUFFIX,docker.com,PROXY
+DOMAIN-SUFFIX,mouseflow.com,PROXY
+DOMAIN-SUFFIX,polldaddy.com,PROXY
+DOMAIN-SUFFIX,optimizely.com,PROXY
+#   GOOGLE
+DOMAIN-SUFFIX,web.dev,PROXY
+DOMAIN_SUFFIX,imgix.net,PROXY
+#   ANDROID
+DOMAIN_SUFFIX,android.com,PROXY
+#   CSS-TRICKS
+DOMAIN_SUFFIX,wp.com,PROXY
+DOMAIN_SUFFIX,cloudflareinsights.com,PROXY
+DOMAIN_SUFFIX,twimg.com,PROXY
+DOMAIN_SUFFIX,codepen.io,PROXY
+#   GO LANG
+DOMAIN_SUFFIX,golang.org,PROXY
+DOMAIN_SUFFIX,learn.go.dev,PROXY
+#   FULL CALENDAR
+DOMAIN_SUFFIX,fullcalendar.io,PROXY
+#   ICON ICON
+DOMAIN_SUFFIX,ionic.io,PROXY
+
+
+
+
+# ========== POPULAR ==========
+#  WIKI
+DOMAIN-SUFFIX,wikipedia.org,PROXY
+DOMAIN-SUFFIX,upload.wikipedia.org,PROXY
+DOMAIN-SUFFIX,wikimedia.org,PROXY
+#  FACEBOOK
+DOMAIN-SUFFIX,facebook.net,PROXY
+DOMAIN-SUFFIX,facebook.com,PROXY
+DOMAIN-SUFFIX,fbcdn.net,PROXY
+#  INSTAGRAM
+DOMAIN-SUFFIX,instagram.com,PROXY
+DOMAIN-SUFFIX,cdninstagram.com,PROXY
+#  LINKEDIN
+DOMAIN-SUFFIX,linkedin.com,PROXY
+DOMAIN-SUFFIX,adnxs.com,PROXY
+DOMAIN-SUFFIX,lynda.com,PROXY
+DOMAIN-SUFFIX,licdn.com,PROXY
+#  TWITTER
+DOMAIN-SUFFIX,twitter.com,PROXY
+DOMAIN-SUFFIX,twimg.com,PROXY
+DOMAIN-SUFFIX,t.co,PROXY
+#  ad ##
+DOMAIN-SUFFIX,ads-twitter.com,PROXY
+# relate
+DOMAIN-SUFFIX,doubleclick.net,PROXY
+#  SPOTIFY
+DOMAIN-SUFFIX,spotify.com,PROXY
+DOMAIN-SUFFIX,t.co,PROXY
+DOMAIN-SUFFIX,snapchat.com,PROXY
+DOMAIN-SUFFIX,adsrvr.org,PROXY
+DOMAIN-SUFFIX,semasio.ne,PROXY
+DOMAIN-SUFFIX,scdn.co,PROXY
+DOMAIN-SUFFIX,global.ssl.fastly.net,PROXY
+DOMAIN-SUFFIX,hotjar.com,PROXY
+DOMAIN-SUFFIX,myvisualiq.net,PROXY
+DOMAIN-SUFFIX,fastly-insights.com,PROXY
+# Grammly
+DOMAIN-SUFFIX,grammarly.com,PROXY
+DOMAIN-SUFFIX,grammarly.io,PROXY
+DOMAIN-SUFFIX,quora.com,PROXY
+#  Netflix
+DOMAIN-SUFFIX,netflix.com,PROXY
+DOMAIN-SUFFIX,nflxext.com,PROXY
+# REDDIT
+DOMAIN-SUFFIX,redd.it,PROXY
+DOMAIN-SUFFIX,redditmedia.com,PROXY
+DOMAIN-SUFFIX,reddit.com,PROXY
+DOMAIN-SUFFIX,reddit.com,PROXY
+DOMAIN-SUFFIX,redditstatic.com,PROXY
+
+
+# ========== IM ==========
+#  What's app
+DOMAIN-SUFFIX,whatsapp.com,PROXY
+DOMAIN-SUFFIX,whatsapp.net,PROXY
+#  TELEGRAM
+DOMAIN-SUFFIX,telegram.org,PROXY
+DOMAIN-SUFFIX,telegram.me,PROXY
+DOMAIN-SUFFIX,t.me,PROXY
+DOMAIN-SUFFIX,telesco.pe,PROXY
+#  Skype
+DOMAIN-SUFFIX,skype.com,PROXY
+DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com,PROXY
+# Whatsapp
+DOMAIN-SUFFIX,whatsapp.com,PROXY
+
+# ========== DESIGN ==========
+DOMAIN-SUFFIX,500px.com,PROXY
+DOMAIN-SUFFIX,unsplash.com,PROXY
+DOMAIN-SUFFIX,adobe.com,PROXY
+DOMAIN-SUFFIX,adobemobiledev.demdex.net,PROXY
+DOMAIN-SUFFIX,sketch.com,PROXY
+DOMAIN-SUFFIX,sketchapp.com,PROXY
+DOMAIN-SUFFIX,500px.org,PROXY
+
+# ========== NEWS ==========
+DOMAIN-SUFFIX,npr.org,PROXY
+#  BBC
+DOMAIN-SUFFIX,bbc.com,PROXY
+DOMAIN-SUFFIX,atwola.com,PROXY
+DOMAIN-SUFFIX,bbc.co.uk,PROXY
+DOMAIN-SUFFIX,bbci.co.uk,PROXY
+DOMAIN-SUFFIX,crwdcntrl.net,PROXY
+DOMAIN-SUFFIX,skimresources.com,PROXY
+#  Yahho
+DOMAIN-SUFFIX,yahoo.com,PROXY
+DOMAIN-SUFFIX,mathtag.com,PROXY
+DOMAIN-SUFFIX,adtechus.com,PROXY
+DOMAIN-SUFFIX,yimg.com,PROXY
+#  NewyorkTime
+DOMAIN-SUFFIX,nytimes.com,PROXY
+DOMAIN-SUFFIX,nyt.com,PROXY
+#  NBC news
+DOMAIN-SUFFIX,nbcnews.com,PROXY
+DOMAIN-SUFFIX,mobileadtrading.com,PROXY
+DOMAIN-SUFFIX,zemanta.com,PROXY
+DOMAIN-SUFFIX,moatads.com,PROXY
+DOMAIN-SUFFIX,fwmrm.net,PROXY
+DOMAIN-SUFFIX,taboola.com,PROXY
+DOMAIN-SUFFIX,s-nbcnews.com,PROXY
+DOMAIN-SUFFIX,parsely.com,PROXY
+DOMAIN-SUFFIX,perfectmarket.com,PROXY
+DOMAIN-SUFFIX,quantserve.com,PROXY
+#  WASHINGDON POST
+DOMAIN-SUFFIX,washingtonpost.com,PROXY
+DOMAIN-SUFFIX,krxd.net,PROXY
+DOMAIN-SUFFIX,netmng.com,PROXY
+DOMAIN-SUFFIX,experianmarketingservices.digital,PROXY
+DOMAIN-SUFFIX,pubmatic.com,PROXY
+DOMAIN-SUFFIX,eyeota.net,PROXY
+DOMAIN-SUFFIX,turn.com,PROXY
+DOMAIN-SUFFIX,casalemedia.com,PROXY
+DOMAIN-SUFFIX,amgdgt.com,PROXY
+DOMAIN-SUFFIX,cloudfront.net,PROXY
+DOMAIN-SUFFIX,sharethis.com,PROXY
+#  ABC NEWS
+DOMAIN-SUFFIX,abcnews.go.com,PROXY
+DOMAIN-SUFFIX,abcnews.com,PROXY
+DOMAIN-SUFFIX,uplynk.com,PROXY
+DOMAIN-SUFFIX,newrelic.com,PROXY
+DOMAIN-SUFFIX,optimizely.com,PROXY
+DOMAIN-SUFFIX,imrworldwide.com,PROXY
+DOMAIN-SUFFIX,vilynx.com,PROXY
+#  TBS
+DOMAIN-SUFFIX,tbs.com,PROXY
+DOMAIN-SUFFIX,squarespace.com,PROXY
+DOMAIN-SUFFIX,typekit.net,PROXY
+
+#  TEAM COCO
+DOMAIN-SUFFIX,teamcoco.com,PROXY
+DOMAIN-SUFFIX,teamcococdn.com,PROXY
+DOMAIN-SUFFIX,trustarc.com,PROXY
+DOMAIN-SUFFIX,art19.com,PROXY
+DOMAIN-SUFFIX,amazonaws.com,PROXY
+DOMAIN-SUFFIX,ywxi.net,PROXY
+DOMAIN-SUFFIX,azureedge.net,PROXY
+DOMAIN-SUFFIX,shopify.com,PROXY
+
+#  FOXNEWS
+DOMAIN-SUFFIX,cloudflare.com,PROXY
+DOMAIN-SUFFIX,taplytics.com,PROXY
+
+
+# ========== PRODUCT ==========
+#  SEGWAY
+DOMAIN-SUFFIX,segway.com,PROXY
+
+# ========== GAMES ==========
+#  EA
+DOMAIN-SUFFIX,ea.com,PROXY
+DOMAIN-SUFFIX,soundcloud.com,PROXY
+DOMAIN-SUFFIX,typekit.net,PROXY
+DOMAIN-SUFFIX,callofduty.com,PROXY
+DOMAIN-SUFFIX,cookielaw.org,PROXY
+DOMAIN-SUFFIX,superhotgame.com,PROXY
+#  STEAM
+DOMAIN-SUFFIX,steampowered.com,PROXY
+DOMAIN-SUFFIX,steamstatic.com,PROXY
+#  RETRO GAMES
+DOMAIN-SUFFIX,libretro.com,PROXY
+
+# ========== FUN ==========
+DOMAIN-SUFFIX,makemepulse.com,PROXY
+DOMAIN-SUFFIX,prismic.io,PROXY
+DOMAIN-SUFFIX,myfonts.net,PROXY
+
+# ========== SHOPPING ==========
+#  EBAY
+DOMAIN-SUFFIX,Ipawind.com,PROXY
+DOMAIN-SUFFIX,ebay-us.com,PROXY
+DOMAIN-SUFFIX,online-metrix.net,PROXY
+
+# ========== OTHERS ==========
+DOMAIN-SUFFIX,inpandora.com,PROXY
+DOMAIN-SUFFIX,workona.com,PROXY
+DOMAIN-SUFFIX,producthunt.com,PROXY
+DOMAIN-SUFFIX,workona.com.*,PROXY
+DOMAIN-SUFFIX,amazon.com,PROXY
+DOMAIN-SUFFIX,cloudfront.net,PROXY
+DOMAIN-SUFFIX,geekbench.com,PROXY
+
+# ========== CHAT ==========
+DOMAIN-SUFFIX,omegle.onl,PROXY
+DOMAIN-SUFFIX,tedrighor.top,PROXY
+DOMAIN-SUFFIX,omegle.com,PROXY
+DOMAIN-SUFFIX,kik.com,PROXY
+
+# ========== LITTLE ==========
+DOMAIN-SUFFIX,yigeni.com,PROXY
+
+# ========== APP ==========
+DOMAIN-SUFFIX,iina.io,PROXY
+
+# ========== INDUSTRY ==========
+DOMAIN-SUFFIX,spacex.com,PROXY
+
+# ========== GFW ==========
+DOMAIN-SUFFIX,imgur.com,PROXY
+
+# ========== IMAGES ==========
+DOMAIN-SUFFIX,imgur.com,PROXY
+DOMAIN-SUFFIX,media-lab.ai,PROXY
+
+
+# ========== FlipperZero ==========
+DOMAIN-SUFFIX,flipperzero.one,PROXY
+DOMAIN-SUFFIX,unpkg.com,PROXY
+DOMAIN-SUFFIX,flipper.net,PROXY
+DOMAIN-SUFFIX,discord.gg,PROXY
+DOMAIN-SUFFIX,archbee.com,PROXY
+DOMAIN-SUFFIX,amazonaws.com,PROXY
+
+
+DOMAIN-SUFFIX,tindie.com,PROXY
