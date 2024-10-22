@@ -150,7 +150,7 @@ DOMAIN-SUFFIX,smoot.apple.cn
 # >Apple
 DOMAIN,r3.o.lencr.org
 DOMAIN-SUFFIX,testflight.apple.com
-DOMAIN-SUFFIX,beta.apple.com,
+DOMAIN-SUFFIX,beta.apple.com
 DOMAIN-KEYWORD,testflight
 # >代理软件
 DOMAIN-SUFFIX,quantumult.app
