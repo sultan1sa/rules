@@ -27,7 +27,7 @@ HOST,apptrailers.itunes.apple.com
 HOST,updates-http.cdn-apple.com
 
 # > Map
-HOST,gs-loc-cn.apple.com
+HOST,gs-loc-com.apple.com
 
 # 引用地址 https://support.apple.com/en-us/HT210060
 # Apple 推送通知 - 当使用 Apple 推送通知服务 (APNS) 时，Apple 设备需要访问以下主机。
