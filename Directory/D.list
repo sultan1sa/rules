@@ -72,6 +72,25 @@ DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
 PROCESS-NAME,com.zhiliaoapp.musically
 
+
+# > apple
+HOST,a1.mzstatic.com,direct
+HOST,a2.mzstatic.com,direct
+HOST,a3.mzstatic.com,direct
+HOST,a4.mzstatic.com,direct
+HOST,a5.mzstatic.com,direct
+HOST,adcdownload.apple.com,direct
+HOST,adcdownload.apple.com.akadns.net,direct
+HOST,amp-api-search-edge.apps.apple.com,direct
+HOST,amp-api.apps.apple.com,direct
+HOST,amp-api.fitness.apple.com,direct
+HOST,analytics.strava.com,direct
+HOST,aod-ssl.itunes.apple.com,direct
+HOST,aod.itunes.apple.com,direct
+
+
+
+
 # > twitter
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
