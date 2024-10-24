@@ -43,6 +43,22 @@ DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
 
+# > apple 
+HOST,a1.mzstatic.com
+HOST,a2.mzstatic.com
+HOST,a3.mzstatic.com
+HOST,a4.mzstatic.com
+HOST,a5.mzstatic.com
+HOST,adcdownload.apple.com
+HOST,adcdownload.apple.com.akadns.net
+HOST,amp-api-search-edge.apps.apple.com
+HOST,amp-api.apps.apple.com
+HOST,amp-api.fitness.apple.com
+HOST,analytics.strava.com
+HOST,aod-ssl.itunes.apple.com
+HOST,aod.itunes.apple.com
+
+
 # > tiktok
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
