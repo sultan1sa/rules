@@ -1,0 +1,135 @@
+# = Apple
+# > Apple Websites
+host-suffix,aaplimg.com,DIRECT
+host-suffix,apple.com,DIRECT
+host-suffix,apple.com.cn,DIRECT
+host-wildcard,apple*,DIRECT
+host-suffix,itunes.com,DIRECT
+host-suffix,me.com,DIRECT
+host-wildcard,ipod.*,DIRECT
+host-wildcard,imac.*,DIRECT
+host-wildcard,iphone.*,DIRECT
+host-wildcard,ipad.*,DIRECT
+host-wildcard,ipadair.*,DIRECT
+host-wildcard,ipadmini.*,DIRECT
+host-wildcard,macbook.*,DIRECT
+host-wildcard,macbookair.*,DIRECT
+host-wildcard,macbookpro.*,DIRECT
+
+# > Apple CIDR
+ip-cidr,17.0.0.0/8,DIRECT
+ip-cidr,63.92.224.0/19,DIRECT
+ip-cidr,65.199.22.0/23,DIRECT
+ip-cidr,139.178.128.0/18,DIRECT
+ip-cidr,144.178.0.0/19,DIRECT
+ip-cidr,144.178.36.0/22,DIRECT
+ip-cidr,144.178.48.0/20,DIRECT
+ip-cidr,192.35.50.0/24,DIRECT
+ip-cidr,198.183.17.0/24,DIRECT
+ip-cidr,205.180.175.0/24,DIRECT
+
+# > Apple Stores
+host,apps.apple.com,DIRECT
+host,iosapps.itunes.apple.com,DIRECT
+host,osxapps.itunes.apple.com,DIRECT
+host-suffix,appsto.re,DIRECT
+host-suffix,mzstatic.com,DIRECT
+
+# > Apple Developer
+host-wildcard,DIRECTworldwidedeveloper.*.net,DIRECT
+host-suffix,adcdownload.apple.com,DIRECT
+host-suffix,developer.apple.com,DIRECT
+
+# > Beats
+
+
+# > iCloud
+host-keyword,icloud,DIRECT
+host-keyword,icoudo,DIRECT
+host-keyword,icoudos,DIRECT
+host-suffix,DIRECTmx-icloud.com,DIRECT
+host-suffix,DIRECTicloud.cn,DIRECT
+host-suffix,DIRECT-icloud.cn,DIRECT
+host-suffix,icloud-content.com,DIRECT
+host-suffix,icloud-content.com.cn,DIRECT
+host-suffix,icloud-isupport.com,DIRECT
+host-suffix,icloudads.net,DIRECT
+host-suffix,icloudbox.net,DIRECT
+host-suffix,icloudbrowser.net,DIRECT
+host-suffix,icloude.com,DIRECT
+host-suffix,icloudmusic.net,DIRECT
+host-suffix,icloudmail.net,DIRECT
+host-suffix,icloudnet.net,DIRECT
+host-suffix,icloudpay.net,DIRECT
+host-suffix,icloudsecure.net,DIRECT
+host-suffix,myicloud.net,DIRECT
+host-suffix,mail.me.com.akadns.net,DIRECT
+host-suffix,www-cdn.icloud.com.akadns.net,DIRECT
+host-suffix,icloud-sandbox.com,DIRECT
+host-suffix,icloud.com.cn,DIRECT
+host-suffix,icloud.net.cn,DIRECT
+host-wildcard,*-content.icloud.com.cn,DIRECT
+
+# > Apple APIs
+# >> Location Service
+host-suffix,ls.apple.com,DIRECT
+# >> Push Service
+host,init-p01md.apple.com,DIRECT
+host-wildcard,init*.push.apple.com,DIRECT
+host-wildcard,init*.push-apple.com.akadns.net,DIRECT
+host-suffix,courier-push-apple.com.akadns.net,DIRECT
+host-suffix,push.apple.com,DIRECT
+
+# >> Other Service
+HOST,amp-api.apps.apple.com,DIRECT
+host,api.smoot.apple.cn,DIRECT
+host-suffix,safebrowsing.apple,DIRECT
+
+# > Apple Music
+host,hls.itunes.apple.com,DIRECT
+host,aod.itunes.apple.com,DIRECT
+host,mvod.itunes.apple.com,DIRECT
+host-suffix,itunes.apple.com,DIRECT
+host-suffix,music.apple.com,DIRECT
+host-suffix,play.itunes.apple.com,DIRECT
+host-suffix,phobos.apple.com,DIRECT
+host-suffix,radio.itunes.apple.com,DIRECT
+host-suffix,radio-activity.itunes.apple.com,DIRECT
+host-suffix,radio-services.itunes.apple.com,DIRECT
+host-suffix,streamingaudio.itunes.apple.com,DIRECT
+
+# > Apple Kit
+host-suffix,DIRECT-cloudkit.com,DIRECT
+host-suffix,DIRECT-mapkit.com,DIRECT
+host-suffix,DIRECT-livephotoskit.com,DIRECT
+
+# > Apple Resources Server
+host,testflight.apple.com,DIRECT
+host-suffix,appldnld.apple.com,DIRECT
+host-suffix,secure-appldnld.apple.com,DIRECT
+host-suffix,itunesu.assets.itunes.com,DIRECT
+
+# > Apple CDNs
+host,updates-http.cdn-apple.com,DIRECT
+host-suffix,DIRECT-support.akadns.net,DIRECT
+host-suffix,DIRECT.com.akadns.net,DIRECT
+host,adcdownload.apple.com.akadns.net,DIRECT
+host-suffix,DIRECT.com.cdn20.com,DIRECT
+host-suffix,DIRECT.com.edgekey.net.globalredir.akadns.net,DIRECT
+host-suffix,DIRECT.com.mwcname.com,DIRECT
+host-suffix,DIRECT.com.mwcloudcdn.com,DIRECT
+host-suffix,cdn-apple.com,DIRECT
+host-suffix,cdn-apple.com.akadns.net,DIRECT
+host-suffix,isu.apple.com.akadns.net,DIRECT
+host-suffix,itunes-apple.com.akadns.net,DIRECT
+host-suffix,itunes.com.edgekey.net,DIRECT
+host-suffix,origin-apple.com.akadns.net,DIRECT
+host-suffix,push-apple.com.akadns.net,DIRECT 
+host-suffix,prod-support.apple-support.akadns.net,DIRECT
+
+#以下内容规则需要通过代理访问
+host,news-assets.apple.com,DIRECT
+host,news-client.apple.com,DIRECT
+host,news-edge.apple.com,DIRECT
+host,news-events.apple.com,DIRECT
+host-suffix,DIRECT.news,DIRECT
