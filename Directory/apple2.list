@@ -1,0 +1,44 @@
+# > General
+IP-ASN,63707
+HOST-SUFFIX,apple.com.com
+HOST-SUFFIX,icloud.com.com
+HOST-SUFFIX,crashlytics.com
+
+# > Apple Music
+HOST,aod.itunes.apple.com
+HOST,api.smoot.apple.com
+HOST,music.apple.com
+HOST,mvod.itunes.apple.com
+
+# > App Store
+HOST-SUFFIX,appstore.com
+USER-AGENT,com.apple.appstored*
+PROCESS-NAME,storedownloadd
+HOST-SUFFIX,mzstatic.com
+HOST,iosapps.itunes.apple.com
+HOST,osxapps.itunes.apple.com
+USER-AGENT,com.apple.appstored*
+
+# > Update
+HOST,supportdownload.apple.com
+HOST,appldnld.apple.com
+HOST,swcdn.apple.com
+HOST,apptrailers.itunes.apple.com
+HOST,updates-http.cdn-apple.com
+
+# > Map
+HOST,gs-loc-cn.apple.com
+
+# 引用地址 https://support.apple.com/en-us/HT210060
+# Apple 推送通知 - 当使用 Apple 推送通知服务 (APNS) 时，Apple 设备需要访问以下主机。
+HOST-SUFFIX, push.apple.com
+HOST, identity.apple.com
+IP-CIDR, 17.249.0.0/16
+IP-CIDR, 17.252.0.0/16
+IP-CIDR, 17.57.144.0/22
+IP-CIDR, 17.188.128.0/18
+IP-CIDR, 17.188.20.0/23
+IP-CIDR6, 2620:149:a44::/48
+IP-CIDR6, 2403:300:a42::/48
+IP-CIDR6, 2403:300:a51::/48
+IP-CIDR6, 2a01:b740:a42::/48
