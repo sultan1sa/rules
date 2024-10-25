@@ -1,0 +1,114 @@
+GEOIP,US,PROXY,no-resolve
+GEOIP,CA,PROXY,no-resolve
+GEOIP,EU,DIRECT,no-resolve
+GEOIP,AU,DIRECT,no-resolve
+GEOIP,NZ,DIRECT,no-resolve
+GEOIP,SA,PROXY,no-resolve
+GEOIP,KR,DIRECT,no-resolve
+GEOIP,SG,DIRECT,no-resolve
+IP-ASN,15169,PROXY,no-resolve
+IP-ASN,13335,PROXY,no-resolve
+
+# > Apple
+host,revenuecat.com, PROXY
+HOST-SUFFIX,mixpanel.com,PROXY
+# > AppleID
+host, appleid.apple.com, DIRECT
+host, appleid.cdn-apple.com, DIRECT
+host, gsa.apple.com, DIRECT
+host, idmsa.apple.com, DIRECT
+
+# > Testflight
+DOMAIN-SUFFIX,flow.chat،PROXY
+host, beta.apple.com, DIRECT 
+
+
+# > Microsoft
+host, assets1.xboxlive.com, proxy
+host, assets2.xboxlive.com, proxy
+host, az416426.vo.msecnd.net, proxy
+host, az668014.vo.msecnd.net, proxy
+host-suffix, bing.com, proxy
+host-suffix, bing.net, proxy
+host-suffix, bingapis.com, proxy
+host-suffix, linkedin.com, proxy
+host-suffix, licdn.com, proxy
+host-suffix, msn.com, PROXY
+host-suffix, skype.com, DIRECT
+host-suffix, aka.ms, DIRECT
+host-suffix, streaming.mediaservices.windows.net, proxy
+host-suffix, microsoft.com, PROXY
+host-suffix, office.com, DIRECT
+host-suffix, office.net, DIRECT
+host-suffix, office365.com, DIRECT
+host-suffix, outlook.com, DIRECT
+host-suffix, live.com, DIRECT
+host-suffix, appcenter.ms, DIRECT
+host-suffix, msauth.net, DIRECT
+host-suffix, api.cortana.ai, proxy
+HOST-KEYWORD, immersivetranslate, DIRECT
+
+
+# > GitHub
+host-suffix, github.blog, DIRECT
+host-suffix, github.com, DIRECT
+host-suffix, github.io, DIRECT
+host-suffix, githubapp.com, DIRECT
+host-suffix, rawgithub.com, DIRECT
+host-suffix, githubassets.com, DIRECT
+host-suffix, githubusercontent.com, DIRECT
+host-keyword, github, DIRECT
+
+# > Gitlab
+host-suffix, gitlab.io, DIRECT
+host-suffix, gitlab.com, DIRECT
+host-suffix, gitlab.net, DIRECT
+
+# > Cloudflare
+host-suffix, warp.plus, DIRECT
+host-suffix, cloudflare.com, DIRECT
+host-suffix, cloudflare.net, DIRECT
+host-suffix, cloudflareclient.com, DIRECT
+
+# > Signal
+host-suffix, signal.org, proxy
+host-suffix, hcaptcha.com, DIRECT
+host-suffix, signalcaptchas.org, proxy
+
+# > Tutanota
+host-suffix, tuta.com, DIRECT
+host-suffix, tutanota.com, DIRECT
+
+# > Proton
+host-suffix, pm.me, DIRECT
+host-suffix, protonmail.com, DIRECT
+host-suffix, proton.me, DIRECT
+
+# > Deepl
+host-suffix, deepl.com, DIRECT
+
+# > Papago
+host-suffix, naver.com, proxy
+host-suffix, naver.net, proxy
+
+# > Mail
+host, s.uicdn.com, DIRECT
+host, cdn.cookielaw.org, DIRECT
+host-suffix, mail.com, DIRECT
+host-suffix, ui-portal.de, DIRECT
+
+# > Yahoo
+host-suffix, oath.com, DIRECT
+host-suffix, yahoo.com, DIRECT
+
+# > DuckDuckGo
+host-suffix, duckduckgo.com, proxy
+
+# > 代理工具
+
+host-keyword, nsloon, DIRECT
+host-keyword, quantumult, proxy
+
+# > 其他
+host-suffix, mail, DIRECT
+host-keyword, tiktok, DIRECT 
