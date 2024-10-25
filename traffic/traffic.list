@@ -1,0 +1,14 @@
+DOMAIN, agi.gpt4.org
+DOMAIN, dl.fbaipublicfiles.com
+DOMAIN, dl.google.com
+DOMAIN, ghcr.io
+DOMAIN, hub.docker.com
+DOMAIN, officecdn-microsoft-com.akamaized.net
+DOMAIN, photo.googleapis.com
+DOMAIN, pkg-containers.githubusercontent.com
+DOMAIN, production.cloudflare.docker.com
+DOMAIN, swcdn.apple.com
+DOMAIN, www.googleapis.com
+DOMAIN-SUFFIX, cloudfront.net
+DOMAIN-SUFFIX, huggingface.co
+DOMAIN-SUFFIX, r2.cloudflarestorage.com
