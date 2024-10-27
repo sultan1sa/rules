@@ -12,11 +12,9 @@ DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
 # > Snapchat
-feelinsonice-hrd.appspot.com
-feelinsonice.appspot.com
-feelinsonice.l.google.com
-appspot.l.google.com
-snapchat.com
+
+HOST-SUFFIX,snapchat.com
+HOST-KEYWORD,snapchat
 data.flurry.com
 feelinsonice.com
 cf-st.sc-cdn.net
@@ -55,20 +53,6 @@ DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
 
-# > apple 
-HOST,a1.mzstatic.com
-HOST,a2.mzstatic.com
-HOST,a3.mzstatic.com
-HOST,a4.mzstatic.com
-HOST,a5.mzstatic.com
-HOST,adcdownload.apple.com
-HOST,adcdownload.apple.com.akadns.net
-HOST,amp-api-search-edge.apps.apple.com
-HOST,amp-api.apps.apple.com
-HOST,amp-api.fitness.apple.com
-HOST,analytics.strava.com
-HOST,aod-ssl.itunes.apple.com
-HOST,aod.itunes.apple.com
 
 
 # > tiktok
@@ -161,7 +145,7 @@ HOST-SUFFIX,btlibrary.me
 HOST-SUFFIX,cccat.io
 HOST-SUFFIX,chat.openai.com
 HOST-SUFFIX,cloudcone.com
-HOST-SUFFIX,dubox.com
+HOST-SUFFIX,cubox.com
 HOST-SUFFIX,gameloft.com
 HOST-SUFFIX,garena.com
 HOST-SUFFIX,hoyolab.com
@@ -183,11 +167,9 @@ HOST-SUFFIX,buzzsprout.com
 
 # 国外域名关键字
 HOST-KEYWORD,dropbox
-HOST-KEYWORD,facebook
 HOST-KEYWORD,github
 HOST-KEYWORD,gmail
 HOST-KEYWORD,instagram
-HOST-KEYWORD,sci-hub
 HOST-KEYWORD,spotify
 HOST-KEYWORD,telegram
 HOST-KEYWORD,twitter
@@ -256,24 +238,7 @@ IP-ASN,211157,no-resolve
 IP-CIDR,5.28.195.80/32
 
 
-# Amazon
-HOST-SUFFIX,amazon.com
-HOST-SUFFIX,amazonaws.com
-IP-CIDR,13.32.0.0/15,no-resolve
-IP-CIDR,13.35.0.0/17,no-resolve
-IP-CIDR,18.184.0.0/15,no-resolve
-IP-CIDR,18.194.0.0/15,no-resolve
-IP-CIDR,18.208.0.0/13,no-resolve
-IP-CIDR,18.232.0.0/14,no-resolve
-IP-CIDR,52.58.0.0/15,no-resolve
-IP-CIDR,52.74.0.0/16,no-resolve
-IP-CIDR,52.77.0.0/16,no-resolve
-IP-CIDR,52.84.0.0/15,no-resolve
-IP-CIDR,52.200.0.0/13,no-resolve
-IP-CIDR,54.93.0.0/16,no-resolve
-IP-CIDR,54.156.0.0/14,no-resolve
-IP-CIDR,54.226.0.0/15,no-resolve
-IP-CIDR,54.230.156.0/22,no-resolve
+
 
 
 
@@ -306,26 +271,6 @@ HOST-SUFFIX,discord.media
 HOST-SUFFIX,discordapp.com
 HOST-SUFFIX,discordapp.net
 
-# Facebook
-HOST-SUFFIX,facebook.com
-HOST-SUFFIX,fb.com
-HOST-SUFFIX,fb.me
-HOST-SUFFIX,fbcdn.com
-HOST-SUFFIX,fbcdn.net
-IP-CIDR,31.13.24.0/21,no-resolve
-IP-CIDR,31.13.64.0/18,no-resolve
-IP-CIDR,45.64.40.0/22,no-resolve
-IP-CIDR,66.220.144.0/20,no-resolve
-IP-CIDR,69.63.176.0/20,no-resolve
-IP-CIDR,69.171.224.0/19,no-resolve
-IP-CIDR,74.119.76.0/22,no-resolve
-IP-CIDR,103.4.96.0/22,no-resolve
-IP-CIDR,129.134.0.0/17,no-resolve
-IP-CIDR,157.240.0.0/17,no-resolve
-IP-CIDR,173.252.64.0/18,no-resolve
-IP-CIDR,179.60.192.0/22,no-resolve
-IP-CIDR,185.60.216.0/22,no-resolve
-IP-CIDR,204.15.20.0/22,no-resolve
 
 # Github
 HOST-SUFFIX,github.com
@@ -362,9 +307,7 @@ IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 
-# Oracle Cloud
-HOST,cloud.oracle.com
-HOST-SUFFIX,oraclecloud.com
+
 
 # OneDrive
 HOST-KEYWORD,1drv
