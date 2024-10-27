@@ -29,7 +29,7 @@ GEOIP,google,PROXY
 
 # > Apple
 host,revenuecat.com, PROXY
-HOST-SUFFIX,mixpanel.com,PROXDIRECT 
+HOST-SUFFIX,mixpanel.com,DIRECT
 # > AppleID
 host,appleid.apple.com, DIRECT
 host,appleid.cdn-apple.com, DIRECT
@@ -37,7 +37,7 @@ host,gsa.apple.com, DIRECT
 host,idmsa.apple.com, DIRECT
 
 # > Testflight
-DOMAIN-SUFFIX,flow.chat،PROXY
+DOMAIN-SUFFIX,flow.chat,DIRECT 
 host, beta.apple.com, PROXY
 
 
