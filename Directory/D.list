@@ -179,16 +179,7 @@ HOST-SUFFIX,twdvd.com
 HOST-SUFFIX,unsplash.com
 HOST-SUFFIX,buzzsprout.com
 
-# 国外域名
-HOST-SUFFIX,eu
-HOST-SUFFIX,hk
-HOST-SUFFIX,jp
-HOST-SUFFIX,kr
-HOST-SUFFIX,sg
-HOST-SUFFIX,tw
-HOST-SUFFIX,uk
-HOST-SUFFIX,us
-HOST-SUFFIX,ca
+
 
 # 国外域名关键字
 HOST-KEYWORD,dropbox
