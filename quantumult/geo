@@ -11,36 +11,34 @@ IP-ASN,13335,PROXY
 
 GEOSITE,openai,PROXY
 GEOSITE,onedrive,DIRECT 
-GEOSITE,youtube,PROXY
 GEOSITE,telegram,DIRECT 
 GEOSITE,netflix,PROXY
 GEOSITE,disney,PROXY
-GEOSITE,spotify,PROXY
+GEOSITE,spotify,DIRECT
 GEOSITE,tiktok,DIRECT  
 GEOSITE,facebook,PROXY
 GEOSITE,twitter,DIRECT
-GEOSITE,google,PROXY
-GEOSITE,category-scholar-!cn,PROXY
+GEOSITE,category-scholar-.com,PROXY
 GEOSITE,geolocation-!cn,PROXY
 RULE-SET,gfw,PROXY
 RULE-SET,direct,DIRECT
 RULE-SET,lancidr,PROXY
-GEOIP,private,DIRECT 
+GEOIP,private,PROXY
 RULE-SET,cncidr,PROXY 
 GEOIP,google,PROXY
 
 # > Apple
 host,revenuecat.com, PROXY
-HOST-SUFFIX,mixpanel.com,PROXY
+HOST-SUFFIX,mixpanel.com,PROXDIRECT 
 # > AppleID
-host, appleid.apple.com, DIRECT
-host, appleid.cdn-apple.com, DIRECT
-host, gsa.apple.com, DIRECT
-host, idmsa.apple.com, DIRECT
+host,appleid.apple.com, DIRECT
+host,appleid.cdn-apple.com, DIRECT
+host,gsa.apple.com, DIRECT
+host,idmsa.apple.com, DIRECT
 
 # > Testflight
 DOMAIN-SUFFIX,flow.chat،PROXY
-host, beta.apple.com, DIRECT 
+host, beta.apple.com, PROXY
 
 
 # > Microsoft
@@ -85,10 +83,10 @@ host-suffix, gitlab.com, DIRECT
 host-suffix, gitlab.net, DIRECT
 
 # > Cloudflare
-host-suffix, warp.plus, DIRECT
-host-suffix, cloudflare.com, DIRECT
-host-suffix, cloudflare.net, DIRECT
-host-suffix, cloudflareclient.com, DIRECT
+host-suffix, warp.plus, PROXY
+host-suffix, cloudflare.com, PROXY
+host-suffix, cloudflare.net, PROXY
+host-suffix, cloudflareclient.com, PROXY
 
 # > Signal
 host-suffix, signal.org, proxy
@@ -100,9 +98,9 @@ host-suffix, tuta.com, DIRECT
 host-suffix, tutanota.com, DIRECT
 
 # > Proton
-host-suffix, pm.me, DIRECT
-host-suffix, protonmail.com, DIRECT
-host-suffix, proton.me, DIRECT
+host-suffix, pm.me, PROXY
+host-suffix, protonmail.com, PROXY
+host-suffix, proton.me, PROXY
 
 # > Deepl
 host-suffix, deepl.com, DIRECT
@@ -118,15 +116,15 @@ host-suffix, mail.com, DIRECT
 host-suffix, ui-portal.de, DIRECT
 
 # > Yahoo
-host-suffix, oath.com, DIRECT
-host-suffix, yahoo.com, DIRECT
+host-suffix, oath.com, PROXY
+host-suffix, yahoo.com, PROXY
 
 # > DuckDuckGo
 host-suffix, duckduckgo.com, proxy
 
 # > 代理工具
 
-host-keyword, nsloon, DIRECT
+host-keyword, nsloon, PROXY
 host-keyword, quantumult, proxy
 
 # > 其他
