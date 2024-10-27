@@ -1,0 +1,74 @@
+# Manually specified Direct lists
+DOMAIN-SUFFIX,icloud-content.com,PROXY
+DOMAIN-SUFFIX,api.cloudmobi.net,PROXY
+DOMAIN-SUFFIX,hotmail.com,Direct
+DOMAIN-SUFFIX,researchgate.net,Direct
+DOMAIN-SUFFIX,springer.com,Direct
+DOMAIN-SUFFIX,blackwell-synergy.com,Direct
+DOMAIN-SUFFIX,sciencemag.org,Direct
+DOMAIN-SUFFIX,jstor.org,Direct
+DOMAIN-SUFFIX,cabdirect.org,Direct
+DOMAIN-SUFFIX,ieee.org,Direct
+DOMAIN-SUFFIX,nature.com,Direct
+DOMAIN-SUFFIX,osapublishing.org,DIRECT 
+HOST-SUFFIX,GITEEE.COM,DIRECT
+
+
+
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+
+# Manually specified Proxy lists🔓
+DOMAIN-SUFFIX,theinitium.com,Proxy
+DOMAIN-SUFFIX,netflix.com,Proxy
+
+
+
+#60 GMail
+# 📞📱Cell phone smtp and imap required for
+DOMAIN-SUFFIX,gmail.com,DIRECT
+#72 #112 Google Voice
+IP-CIDR,74.125.0.0/1#85,DIRECT
+DOMAIN-SUFFIX,yt3.ggpht.com,Proxy
+DOMAIN-SUFFIX,www-google-analytics.l.google.com,Proxy
+DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,Proxy
+DOMAIN-SUFFIX,partnerad.l.google.com,Proxy
+DOMAIN-SUFFIX,pagead.l.google.com,Proxy
+DOMAIN-SUFFIX,pagead.google.com,Proxy
+DOMAIN-SUFFIX,pagead-tpc.l.google.com,Proxy
+DOMAIN-SUFFIX,mobileads.google.com,Proxy
+DOMAIN-SUFFIX,dowjones.com,Proxy
+#159
+#180 OneDrive (Possibly redundant)
+DOMAIN-SUFFIX,bcbits.com,DIRECT
+DOMAIN-SUFFIX,ogma.iad.appboy.com,DIRECT
+DOMAIN-SUFFIX,odc.officeapps.live.com,DIRECT
+DOMAIN-SUFFIX,skyapi.live.net,DIRECT
+DOMAIN-SUFFIX,centralus1.mediap.svc.ms,DIRECT
+DOMAIN-SUFFIX,dm.files.1drv.com,DIRECT
+DOMAIN-SUFFIX,mobile.pipe.aria.microsoft.com,DIRECT
+DOMAIN-SUFFIX,gate.hockeyapp.net,DIRECT
+DOMAIN-SUFFIX,skyapi.live.net,DIRECT
+DOMAIN-SUFFIX,api.onedrive.com,DIRECT
+DOMAIN-SUFFIX,vortex.data.microsoft.com,DIRECT
+#183
+DOMAIN-SUFFIX,mendeley.com,Proxy
+#192 Podcast listening application overcast
+DOMAIN-SUFFIX,overcast.fm,Proxy
+#205 APPLE NEWS
+DOMAIN-SUFFIX,news-events.apple.com,Proxy
+DOMAIN-SUFFIX,news-edge.apple.com,Proxy
+DOMAIN-SUFFIX,apple.comscoreresearch.com,Proxy
+DOMAIN-SUFFIX,play.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,play-cdn.itunes-apple.com.akadns.net,Proxy
+DOMAIN-SUFFIX,ls.apple.com,Proxy
+DOMAIN-SUFFIX,cvws.apple-dns.net,Proxy
+DOMAIN-SUFFIX,news.apple-dns.net,Proxy
+DOMAIN-SUFFIX,gateway.fe.apple-dns.net,Proxy
+DOMAIN-SUFFIX,akamaiedge.net,Proxy
+DOMAIN-SUFFIX,gs-loc.apple.com,Proxy
+DOMAIN-SUFFIX,bag.itunes.apple.com,Proxy
+DOMAIN-SUFFIX,apple.news,Proxy
+DOMAIN-SUFFIX,news.iadsdk.apple.com,Proxy
