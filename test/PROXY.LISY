@@ -15,8 +15,6 @@ kagi.com
 Brave.com
 you.com
 ya.ru
-www.google.com
-google.com
 www.bing.com
 bing.com
 www.yahoo.com
@@ -51,29 +49,6 @@ ssl.bing.com
 sydney.bing.com
 th.bing.com
 
-#[youtube]
-*googlevideo.com
-yt3.ggpht.com
-*youtube.com
-i.ytimg.com
-youtubei.googleapis.com
-yt3.googleusercontent.com
-m.youtube.com
-*google.com
-googleapis.com
-gstatic.com
-play.google.com
-s.youtube.com
-www.youtube.com
-youtu.be
-*ggpht.com
-*ytimg.com
-play.google.com
-nhacmp3youtube.com
-*googleusercontent.com
-gstatic.com
-googleapis.com
-*l.google
 
 #[docker]
 hub.docker.com
@@ -123,35 +98,7 @@ chat.openai.com
 chatgpt.com
 
 
-#[google]
-bard.google.com
-calendar.google.com
-drive.google.com
-docs.google.com
-gemini.google.com
-google.com
-googleapis.com
-googlecode.com
-googleoptimize.com
-googleusercontent.com
-googleweblight.in
-gstatic.com
-mail.google.com
-maps.google.com
-meet.google.com
-news.google.com
-photos.google.com
-play.google.com
-translate.google.com
-sites.google.com
-scholar.google.com
-keep.google.com
-hangouts.google.com
-myaccount.google.com
-groups.google.com
-console.developers.google.com
-support.google.com
-cloud.google.com
+
 
 
 
