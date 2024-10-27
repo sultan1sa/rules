@@ -30,7 +30,6 @@ DOMAIN-SUFFIX,netflix.com,Proxy
 # 📞📱Cell phone smtp and imap required for
 DOMAIN-SUFFIX,gmail.com,DIRECT
 #72 #112 Google Voice
-IP-CIDR,74.125.0.0/1#85,DIRECT
 DOMAIN-SUFFIX,yt3.ggpht.com,Proxy
 DOMAIN-SUFFIX,www-google-analytics.l.google.com,Proxy
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,Proxy
