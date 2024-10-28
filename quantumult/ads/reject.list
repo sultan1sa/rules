@@ -1,0 +1,217 @@
+# Title: d3Host List by d3ward
+# Expires: 1 days
+# Homepage: https://github.com/d3ward/toolz
+
+
+
+# --- Amazon
+HOST,adtago.s3.amazonaws.com
+HOST,analyticsengine.s3.amazonaws.com
+HOST,analytics.s3.amazonaws.com
+HOST,advice-ads.s3.amazonaws.com
+HOST,advertising-api-eu.amazon.com
+
+# --- Google Ads
+HOST,pagead2.googlesyndication.com
+HOST,adservice.google.com
+HOST,pagead2.googleadservices.com
+HOST,afs.googlesyndication.com
+
+# --- Doubleclick.net
+HOST,stats.g.doubleclick.net
+HOST,ad.doubleclick.net
+HOST,static.doubleclick.net
+HOST,m.doubleclick.net
+HOST,mediavisor.doubleclick.net
+
+# --- Adcolony
+HOST,ads30.adcolony.com
+HOST,adc3-launch.adcolony.com
+HOST,events3alt.adcolony.com
+HOST,wd.adcolony.com
+
+# --- Media.net
+HOST,static.media.net
+HOST,media.net
+HOST,adservetx.media.net
+
+
+#========= Analytics ==========
+
+# --- Google Analytics
+HOST,app-measurement.com
+HOST,analytics.google.com
+HOST,click.googleanalytics.com
+HOST,google-analytics.com
+HOST,ssl.google-analytics.com
+
+# --- Hotjar
+HOST,adm.hotjar.com
+HOST,identify.hotjar.com
+HOST,insights.hotjar.com
+HOST,script.hotjar.com
+HOST,surveys.hotjar.com
+HOST,careers.hotjar.com
+HOST,events.hotjar.io
+
+# --- MouseFlow
+HOST,mouseflow.com
+HOST,api.mouseflow.com
+HOST,tools.mouseflow.com
+HOST,cdn-test.mouseflow.com
+
+# --- FreshWorks
+HOST,freshmarketer.com
+HOST,claritybt.freshmarketer.com
+HOST,fwtracks.freshmarketer.com
+
+# --- Luckyorange
+HOST,luckyorange.com
+HOST,api.luckyorange.com
+HOST,realtime.luckyorange.com
+HOST,cdn.luckyorange.com
+HOST,w1.luckyorange.com
+HOST,upload.luckyorange.net
+HOST,cs.luckyorange.net
+HOST,settings.luckyorange.net
+
+# --- Stats WP Plugin
+HOST,stats.wp.com
+
+
+#======= Error Trackers =======
+
+# --- Bugsnag
+HOST,notify.bugsnag.com
+HOST,sessions.bugsnag.com
+HOST,api.bugsnag.com
+HOST,app.bugsnag.com
+
+# --- Sentry
+HOST,browser.sentry-cdn.com
+HOST,app.getsentry.com
+
+
+#====== Social Trackers =======
+
+# --- Facebook
+HOST,pixel.facebook.com
+HOST,an.facebook.com
+
+# --- Twitter
+HOST,static.ads-twitter.com
+HOST,ads-api.twitter.com
+
+# --- LinkedIn
+HOST,ads.linkedin.com
+HOST,analytics.pointdrive.linkedin.com
+
+# --- Pinterest
+HOST,ads.pinterest.com
+HOST,log.pinterest.com
+HOST,analytics.pinterest.com
+HOST,trk.pinterest.com
+HOST,widgets.pinterest.com
+
+# --- Reddit
+HOST,events.reddit.com
+HOST,events.redditmedia.com
+
+# --- YouTube
+HOST,ads.youtube.com
+
+# --- TikTok
+HOST,ads-api.tiktok.com
+HOST,analytics.tiktok.com
+HOST,ads-sg.tiktok.com
+HOST,analytics-sg.tiktok.com
+HOST,business-api.tiktok.com
+HOST,ads.tiktok.com
+HOST,log.byteoversea.com
+
+
+#============ Mix =============
+
+# --- Yahoo
+HOST,ads.yahoo.com
+HOST,analytics.yahoo.com
+HOST,geo.yahoo.com
+HOST,udc.yahoo.com
+HOST,udcm.yahoo.com
+HOST,advertising.yahoo.com
+HOST,analytics.query.yahoo.com
+HOST,partnerads.ysm.yahoo.com
+HOST,log.fc.yahoo.com
+HOST,gemini.yahoo.com
+HOST,adtech.yahooinc.com
+
+# --- Yandex
+HOST,extmaps-api.yandex.net
+HOST,appmetrica.yandex.ru
+HOST,adfstat.yandex.ru
+HOST,metrika.yandex.ru
+HOST,advertising.yandex.ru
+HOST,offerwall.yandex.net
+HOST,adfox.yandex.ru
+
+# --- Unity
+HOST,auction.unityads.unity3d.com
+HOST,webview.unityads.unity3d.com
+HOST,config.unityads.unity3d.com
+HOST,adserver.unityads.unity3d.com
+
+
+#============ OEMs ============
+
+# --- Realme
+HOST,iot-eu-logser.realme.com
+HOST,iot-logser.realme.com
+HOST,bdapi-ads.realmemobile.com
+HOST,bdapi-in-ads.realmemobile.com
+
+# --- Xiaomi
+HOST,api.ad.xiaomi.com
+HOST,data.mistat.xiaomi.com
+HOST,data.mistat.india.xiaomi.com
+HOST,data.mistat.rus.xiaomi.com
+HOST,sdkconfig.ad.xiaomi.com
+HOST,sdkconfig.ad.intl.xiaomi.com
+HOST,globalapi.ad.xiaomi.com
+HOST,tracking.rus.miui.com
+
+# --- Oppo
+HOST,adsfs.oppomobile.com
+HOST,adx.ads.oppomobile.com
+HOST,ck.ads.oppomobile.com
+HOST,data.ads.oppomobile.com
+
+# --- Huawei
+HOST,metrics.data.hicloud.com
+HOST,metrics2.data.hicloud.com
+HOST,grs.hicloud.com
+HOST,logservice.hicloud.com
+HOST,logservice1.hicloud.com
+HOST,logbak.hicloud.com
+
+# --- OnePlus
+HOST,click.oneplus.cn
+HOST,open.oneplus.net
+
+# --- Samsung
+HOST,samsungads.com
+HOST,smetrics.samsung.com
+HOST,nmetrics.samsung.com
+HOST,samsung-com.112.2o7.net
+HOST,analytics-api.samsunghealthcn.com
+
+# --- Apple
+HOST,advertising.apple.com
+HOST,tr.iadsdk.apple.com
+HOST,iadsdk.apple.com
+HOST,metrics.icloud.com
+HOST,metrics.apple.com
+HOST,metrics.mzstatic.com
+HOST,api-adservices.apple.com
+HOST,books-analytics-events.apple.com
+HOST,weather-analytics-events.apple.com
+HOST,notes-analytics-events.apple.com
