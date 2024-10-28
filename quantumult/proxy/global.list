@@ -1,0 +1,84 @@
+# Surge
+DOMAIN,surge.mitsea.com,PROXY
+DOMAIN-SUFFIX,nssurge.com,PROXY
+DOMAIN-SUFFIX,surge-activation.com,PROXY
+# Stash
+DOMAIN-SUFFIX,stash.ws,PROXY
+DOMAIN-SUFFIX,stash.wiki,PROXY
+DOMAIN-SUFFIX,stash-activation.com,PROXY
+
+# 网页
+DOMAIN-SUFFIX,duckduckgo.com,PROXY
+DOMAIN-SUFFIX,v2ex.com,PROXY
+DOMAIN-SUFFIX,colamanhua.com,PROXY
+DOMAIN-SUFFIX,nhentai.net,PROXY
+DOMAIN-SUFFIX,javbus.com,PROXY
+
+# 南+
+DOMAIN,www.south-plus.net,PROXY
+DOMAIN,www.summer-plus.net,PROXY
+DOMAIN,bbs.imoutolove.me,PROXY
+
+# AdGuard
+DOMAIN-SUFFIX,adguard.org,PROXY
+DOMAIN-SUFFIX,adguard.com,PROXY
+DOMAIN-SUFFIX,adtidy.org,PROXY
+
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare.com,PROXY
+DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
+
+# Dropbox
+DOMAIN-SUFFIX,dropbox.com,DIRECT
+DOMAIN-SUFFIX,dropboxapi.com,DIRECT
+DOMAIN-SUFFIX,dropboxusercontent.com,DIRECT
+
+# Gitlab
+DOMAIN-SUFFIX,gitlab.com,DIRECT
+
+# Jsdelivr
+DOMAIN-SUFFIX,esm.run,PROXY
+DOMAIN-SUFFIX,jsdelivr.com,PROXY
+DOMAIN-SUFFIX,jsdelivr.net,PROXY
+
+# 杂项
+DOMAIN-SUFFIX,yahoo.com,PROXY
+
+# Apps
+DOMAIN,sub-store.vercel.app,PROXY
+DOMAIN-SUFFIX,day.app,PROXY
+DOMAIN-SUFFIX,fileball.app,PROXY
+DOMAIN-SUFFIX,mess-lab.com,PROXY
+DOMAIN,sdk.fra-01.braze.eu,PROXY
+DOMAIN,www.gravatar.com // Spark
+DOMAIN,http-inputs-notion.splunkcloud.com,PROXY
+
+# Final
+DOMAIN,api.revenuecat.com,PROXY
+DOMAIN,sessions.bugsnag.com,PROXY
+DOMAIN,statuse.digitalcertvalidation.com,PROXY
+DOMAIN-SUFFIX,ingest.sentry.io,PROXY
+DOMAIN-SUFFIX,safebrowsing.apple,PROXY
+# Spotify
+DOMAIN-SUFFIX,branch.io,PROXY
+DOMAIN-SUFFIX,scorecardresearch.com,PROXY
+# GoodNotes
+DOMAIN-SUFFIX,amplitude.com,DIRECT 
+DOMAIN-SUFFIX,mixpanel.com,DIRECT
+
+# 好多app都有的
+DOMAIN,in.appcenter.ms,PROXY
+DOMAIN-SUFFIX,amazonaws.com,PROXY
+DOMAIN-SUFFIX,amazontrust.com,PROXY
+DOMAIN-SUFFIX,appsflyer.com,PROXY
+DOMAIN-SUFFIX,appsflyersdk.com,PROXY
+DOMAIN-SUFFIX,cloudfront.net,PROXY
+DOMAIN-SUFFIX,lencr.org,PROXY
+DOMAIN-SUFFIX,ocsp.sectigo.com,PROXY
+DOMAIN-SUFFIX,sprig.com,PROXY
+DOMAIN-SUFFIX,statsig.com,PROXY
+DOMAIN-SUFFIX,usertrust.com,proxy
+
+# 待处理
+DOMAIN,cdn.iframe.ly,proxy
+DOMAIN,cdn.polyfill.io,proxy
