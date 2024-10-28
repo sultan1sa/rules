@@ -1,0 +1,10 @@
+# NAME: yt-images
+# AUTHOR: CatFish
+
+
+HOST-SUFFIX,ggpht.com
+HOST-SUFFIX,l.google.com
+HOST,ytimg.com
+HOST,img.youtube.com
+HOST,i.ytimg.com
+HOST,youtubei.googleapis.com
