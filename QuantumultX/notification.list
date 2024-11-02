@@ -1,0 +1,38 @@
+# > Apple Push Service
+ host-keyword, push.apple.com, direct
+ # > Apple Time Synchronization
+ host, time.apple.com, direct
+ # > Apple Weather Service
+ host-keyword, weather-edge.apple.com, direct
+ host-keyword, weather-adge.apple.com, direct
+ host-suffix, weather-data.apple.com, direct
+ host-suffix, weather-map.apple.com, direct
+ host-suffix, weather-analytics-events.apple.com, direct
+ # > Apple Buying Service
+ host-keyword, buy.itunes.apple.com, direct
+ # > Apple icloud
+ host-keyword, icloud.com, direct
+ # > Apple Input Method Related Services
+ host-keyword, api.smoot.apple.com, direct
+ host-keyword, api.smoot.apple.cn, direct
+ # > Apple iMessage Service
+ host, init.ess.apple.com, direct
+ # > Other Apple services
+ host-keyword, ssl.apple.com, direct
+ host-keyword, humb.apple.com, direct
+ host, smp-device-content.apple.com, direct
+ host-keyword, api-adservices.apple.com, direct
+ host-keyword, ls.apple.com, direct
+ host-keyword, gsa.apple.com, direct
+ host-keyword, ess.apple.com, direct
+
+ # > QQ Space
+ host-keyword, ctc.qzs.qzone.qq.com, direct
+
+ # > router-backend
+ ip-cidr, 192.168.0.1/24, direct
+ # > Tianyi Gateway
+ ip-cidr, 192.168.1.1/24, direct
+
+ # > Other diversion fixes
+ host-keyword, anti-ad.net, direct
