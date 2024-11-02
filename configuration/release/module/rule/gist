@@ -1,6 +1,6 @@
 #!name=proxy_warp
 
-[RULE]
+
 DOMAIN-KEYWORD,colab,PROXY
 DOMAIN-KEYWORD,porkbun,PROXY
 DOMAIN-KEYWORD,skydrive,PROXY
