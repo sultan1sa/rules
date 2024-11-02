@@ -1,0 +1,37 @@
+# > Apple Podcast Blocked
+HOST,chtbl.com,PROXY
+HOST,podtrac.com,PROXY
+HOST,traffic.omny.fm,PROXY
+HOST,flex.acast.com,PROXY
+HOST,stitcher2.acast.com,PROXY
+HOST-SUFFIX,mc.tritondigital.com,PROXY
+HOST,amp-api.podcasts.apple.com,PROXY
+HOST,bag.itunes.apple.com,DIRECT
+HOST,play.itunes.apple.com,DIRECT
+HOST,bookkeeper.itunes.apple.com,DIRECT
+HOST,entitlements-edge.itunes.apple.com,DIRECT
+
+# > Apple API
+HOST-SUFFIX,akadns.net,DIRECT
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,akamaiedge.net,DIRECT
+
+HOST-SUFFIX,apple.co,DIRECT
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,apple-cloudkit.com,DIRECT
+HOST-SUFFIX,apple-livephotoskit.com,DIRECT
+HOST-SUFFIX,apple-mapkit.com,DIRECT
+HOST-SUFFIX,applemusic.com,DIRECT
+HOST-SUFFIX,appsto.re,DIRECT
+HOST-SUFFIX,apzones.com,DIRECT
+HOST-SUFFIX,cdn-apple.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,icloud-content.com,DIRECT
+HOST-SUFFIX,itunes.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+
+# > Apple News
+HOST-SUFFIX,apple.comscoreresearch.com,PROXY
+HOST-SUFFIX,apple.news,PROXY
+
