@@ -1,9 +1,9 @@
 HOST,ppq.apple.com,REJECT
-HOST,guzzoni-apple-com,REJECT.v.aaplimg.com,REJECT
+HOST,guzzoni-apple-com.v.aaplimg.com,REJECT
 HOST,gdmf.apple.com,REJECT
 HOST,axm-app.apple.com,REJECT
-HOST,com,REJECTm-cohort.ess.apple.com,REJECT
-HOST,com,REJECTm-main.ess.apple.com,REJECT
+HOST,comm-cohort.ess.apple.com,REJECT
+HOST,comm-main.ess.apple.com,REJECT
 HOST,vpp.itunes.apple.com,REJECT
 HOST,appattest.apple.com,REJECT
 HOST,mesu.apple.com,REJECT
