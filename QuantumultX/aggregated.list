@@ -1,0 +1,90 @@
+# aggregated Apple Music Disney+ Netflix Spotify YouTube into one 
+# 可取消配置文件 filter remove 各自 rules 前的注释实现分开使用 force policy 
+
+# > Apple Music
+USER-AGENT,Music*,PROXY
+HOST-SUFFIX,applemusic.com,PROXY
+
+HOST-SUFFIX,music.apple.com,PROXY
+HOST,aod.itunes.apple.com,PROXY
+HOST,aod-ssl.itunes.apple.com,PROXY
+HOST,audio.itunes.apple.com,PROXY
+HOST,audio-ssl.itunes.apple.com,PROXY
+HOST,mvod.itunes.apple.com,PROXY
+HOST,streamingaudio.itunes.apple.com,PROXY
+# > iCloud Music Library
+HOST-SUFFIX,blobstore.apple.com,PROXY
+
+# > Disney Plus
+USER-AGENT,Disney*,PROXY
+HOST-SUFFIX,adobedtm.com,PROXY
+HOST-SUFFIX,bam.nr-date.net,PROXY
+HOST-SUFFIX,bamgrid.com,PROXY
+HOST-SUFFIX,braze.com,PROXY
+HOST-SUFFIX,cdn.optimizely.com,PROXY
+HOST-SUFFIX,d9.flashtalking.com,PROXY
+HOST-SUFFIX,disney.demdex.net,PROXY
+HOST-SUFFIX,disney.my.sentry.io,PROXY
+HOST-SUFFIX,disneyplus.bn5x.net,PROXY
+HOST-SUFFIX,disneyplus.com,PROXY
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,PROXY
+HOST-SUFFIX,disney-plus.net,PROXY
+HOST-SUFFIX,disney-portal.my.onetrust.com,PROXY
+HOST-SUFFIX,dssott.com,PROXY
+HOST-SUFFIX,registerdisney.go.com,PROXY
+
+
+
+# > Spotify
+USER-AGENT,Spotify*,DIRECT
+HOST-SUFFIX,pscdn.co,DIRECT
+HOST-SUFFIX,scdn.co,DIRECT
+HOST-SUFFIX,spoti.fi,DIRECT
+HOST-SUFFIX,spotify.com,DIRECT
+
+HOST-SUFFIX,spotifycodes.com,DIRECT
+HOST-SUFFIX,spotifyjobs.com,DIRECT
+
+HOST-SUFFIX,spotilocal.com,DIRECT
+HOST-SUFFIX,tospotify.com,DIRECT
+
+# > Sonos control 增加了局域网 SONOS 音箱的控制
+HOST-SUFFIX,sonostime.pool.ntp.org,DIRECT
+HOST,braze-images.com,PROXY
+HOST,sonos-music.apple.com,PROXY
+HOST,sali.sonos.radio,Spotify
+HOST,oauth.ws.sonos.com,PROXY
+HOST,dcapps.ws.sonos.com,PROXY
+HOST,voiceconfig.ws.sonos.com,PROXY
+HOST-SUFFIX,ws.sonos.com,PROXY
+HOST,update-services.sonos.com,PROXY
+HOST,update-firmware.sonos.com,PROXY
+HOST-SUFFIX,sonos.com,PROXY
+HOST-SUFFIX,urbanairship.com,DIRECT
+
+
+# > Youtube Music
+USER-AGENT,*YouTubeMusic*,DIRECT
+USER-AGENT,*com.google.ios.youtubemusic*,DIRECT
+
+# > YouTube 
+USER-AGENT,*youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
+HOST-WILDCARD,youtube.*,PROXY
+HOST-WILDCARD,youtube.*.*,PROXY
+HOST-WILDCARD,youtube.com.*,PROXY
+HOST-SUFFIX,googlevideo.com,PROXY
+HOST-SUFFIX,gvt1.com,PROXY
+HOST-SUFFIX,video.google.com,PROXY
+HOST-SUFFIX,youtu.be,PROXY
+HOST-SUFFIX,youtube.com,PROXY
+HOST-SUFFIX,youtube.googleapis.com,PROXY
+HOST-SUFFIX,youtubeeducation.com,PROXY
+HOST-SUFFIX,youtubeembeddedplayer.googleapis.com,PROXY
+HOST-SUFFIX,youtubei.googleapis.com,PROXY
+HOST-SUFFIX,youtubekids.com,PROXY
+HOST-SUFFIX,youtube-nocookie.com,PROXY
+HOST-SUFFIX,youtube-ui.l.google.com,PROXY
+HOST-SUFFIX,yt.be,PROXY
+HOST-SUFFIX,yt3.ggpht.com,PROXY
+HOST-SUFFIX,ytimg.com,PROXY
