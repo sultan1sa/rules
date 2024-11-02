@@ -1,0 +1,465 @@
+# NAME: Microsoft
+# UPDATED: 2023-06-05  22:12 / 2023-08-14 13:55/ 2023-09-23 22:53
+
+# > Add by me 
+HOST-SUFFIX,21vbc.com,DIRECT
+HOST-SUFFIX,21vbluecloud.com,DIRECT
+HOST-SUFFIX,21vbluecloud.net,DIRECT
+HOST-SUFFIX,azure.cn.cn,DIRECT
+HOST-SUFFIX,azure-dns-2.cn,DIRECT
+HOST-SUFFIX,azure-dns-4.cn,DIRECT
+HOST-SUFFIX,aadrm.cn,DIRECT
+HOST-SUFFIX,aggresmart.com,DIRECT
+HOST-SUFFIX,apihub-internal.cn,DIRECT
+HOST-SUFFIX,appserviceenvironment.cn,DIRECT
+HOST-SUFFIX,azcrmc-test.cn,DIRECT
+HOST-SUFFIX,azcrmc.cn,DIRECT
+HOST-SUFFIX,azk8s.cn,DIRECT
+HOST-SUFFIX,aznbcontent.cn,DIRECT
+HOST-SUFFIX,aztask.cn,DIRECT
+HOST-SUFFIX,azure-api.cn,DIRECT
+HOST-SUFFIX,azure-apihub.cn,DIRECT
+HOST-SUFFIX,azure-automation.cn,DIRECT
+HOST-SUFFIX,azure-connectedvehicles-stage.cn,DIRECT
+HOST-SUFFIX,azure-connectedvehicles.cn,DIRECT
+HOST-SUFFIX,azure-devices-provisioning.cn,DIRECT
+HOST-SUFFIX,azure-devices.cn,DIRECT
+HOST-SUFFIX,azure-dns.cn,DIRECT
+HOST-SUFFIX,azure-mobile.cn.cn,DIRECT
+HOST-SUFFIX,azure.cn,DIRECT
+HOST-SUFFIX,azurecr-test.cn,DIRECT
+HOST-SUFFIX,azurecr.cn,DIRECT
+HOST-SUFFIX,azurehdinsight.cn,DIRECT
+HOST-SUFFIX,azureiotsuite.cn,DIRECT
+HOST-SUFFIX,azuremresolver.cn,DIRECT
+HOST-SUFFIX,azureprivatedns.cn,DIRECT
+HOST-SUFFIX,azurerms.cn,DIRECT
+HOST-SUFFIX,azuresandbox.cn,DIRECT
+HOST-SUFFIX,b2clogin.cn,DIRECT
+HOST-SUFFIX,b3itech.cn,DIRECT
+HOST-SUFFIX,bing.com.cn,DIRECT
+HOST-SUFFIX,cegid-cloud.cn,DIRECT
+HOST-SUFFIX,chinacloud-mobile.cn,DIRECT
+HOST-SUFFIX,chinacloudapi.cn,DIRECT
+HOST-SUFFIX,chinacloudapp.cn,DIRECT
+HOST-SUFFIX,chinacloudsites.cn,DIRECT
+HOST-SUFFIX,cn.bing.com,DIRECT
+HOST-SUFFIX,cn.bing.net,DIRECT
+HOST-SUFFIX,dynamics.cn,DIRECT
+HOST-SUFFIX,hdinsightservices.cn,DIRECT
+HOST-SUFFIX,lync.cn,DIRECT
+HOST-SUFFIX,mcchcdn.com,DIRECT
+HOST-SUFFIX,mgmt-azure-api.cn,DIRECT
+HOST-SUFFIX,microsoft-smb.cn,DIRECT
+HOST-SUFFIX,mncmsidlab1.cn,DIRECT
+HOST-SUFFIX,msappproxy.cn,DIRECT
+HOST-SUFFIX,msauth.cn,DIRECT
+HOST-SUFFIX,msauthimages.cn,DIRECT
+HOST-SUFFIX,msftauth.cn,DIRECT
+HOST-SUFFIX,msftauthimages.cn,DIRECT
+HOST-SUFFIX,msftcloudes.cn,DIRECT
+HOST-SUFFIX,msidentity.cn,DIRECT
+HOST-SUFFIX,msidlabpbmc.cn,DIRECT
+HOST-SUFFIX,o365cn.com,DIRECT
+HOST-SUFFIX,o365files.cn,DIRECT
+HOST-SUFFIX,office365-net.cn,DIRECT
+HOST-SUFFIX,office365.cn,DIRECT
+HOST-SUFFIX,officewebapps.cn,DIRECT
+HOST-SUFFIX,onmschina.cn,DIRECT
+HOST-SUFFIX,outlook.cn,DIRECT
+HOST-SUFFIX,pbiwebcontent.cn,DIRECT
+HOST-SUFFIX,powerapps.cn,DIRECT
+HOST-SUFFIX,powerappsportals.cn,DIRECT
+HOST-SUFFIX,powerautomate.cn,DIRECT
+HOST-SUFFIX,powerbi.cn,DIRECT
+HOST-SUFFIX,reactorms.com.cn,DIRECT
+HOST-SUFFIX,sharepoint.cn,DIRECT
+HOST-SUFFIX,trafficmanager.cn,DIRECT
+HOST-SUFFIX,trustcenter.cn,DIRECT
+HOST-SUFFIX,unity3dcloud.cn,DIRECT
+HOST-SUFFIX,windowsazure.cn,DIRECT
+HOST-SUFFIX,windowsazurestatus.cn,DIRECT
+HOST-SUFFIX,microsoftonline.cn,DIRECT
+HOST-SUFFIX,microsoftonline-m.cn,DIRECT
+HOST-SUFFIX,microsoftonline-m-i.cn,DIRECT
+HOST-SUFFIX,microsoftazurestatus.cn,DIRECT
+HOST-SUFFIX,management-azure-devices-provisioning.cn,DIRECT
+HOST-SUFFIX,management-azure-devices.cn,DIRECT
+HOST,settings-win.data.microsoft.com,DIRECT
+HOST,fe2cr.update.microsoft.com,DIRECT
+
+  # > Microsoft
+HOST-SUFFIX,here.com,PROXY
+HOST-SUFFIX,here.net,PROXY
+  # DOMAIN-SUFFIX,heremaps.com,PROXY
+  # DOMAIN-SUFFIX,ovi.com.com,PROXY
+HOST,eas.outlook.com,PROXY
+HOST,m.hotmail.com,PROXY
+HOST,login.microsoftonline.com,PROXY
+HOST,aadcdn.msftauth.net,PROXY
+HOST,pti.store.microsoft.com,PROXY
+HOST,checkappexec.microsoft.com,PROXY
+
+  # > Download OS patches, updates, and apps from Microsoft Store. Xbox ！！
+HOST,fe3cr.delivery.mp.microsoft.com,PROXY
+
+  # > Add Firefox Mozilla.org 
+HOST,ocsp.digicert.com,PROXY
+HOST,ocsp.edge.digicert.com,PROXY
+HOST,fp2e7a.wpc.phicdn.net,PROXY
+HOST,fp2e7a.wpc.2be4.phicdn.net,PROXY
+
+HOST-SUFFIX,firefox.com,PROXY
+HOST-SUFFIX,firefox.com.cn,PROXY
+HOST-SUFFIX,firefoxusercontent.com,PROXY
+
+  # > Let's Encrypt,
+HOST,r10.o.lencr.org,PROXY
+HOST-SUFFIX,o.lencr.org,PROXY
+HOST-SUFFIX,c.lencr.org,PROXY
+HOST-SUFFIX,i.lencr.org,PROXY
+
+HOST-SUFFIX,cdn.mozilla.net,PROXY
+HOST-SUFFIX,mdn.mozillademos.org,PROXY
+HOST,media.prod.mdn.mozit.cloud,PROXY
+HOST,mozilla.cloudflare-dns.com,PROXY
+HOST,autopush.prod.mozaws.net,PROXY
+HOST-SUFFIX,webservices.mozgcp.net,PROXY
+  
+HOST-SUFFIX,bugzilla.org,PROXY
+HOST-SUFFIX,crates.io,PROXY
+HOST-SUFFIX,docs.rs,PROXY
+HOST-SUFFIX,extensionworkshop.com,PROXY
+HOST,pocket-image-cache.com,PROXY
+HOST-SUFFIX,getpocket.com,PROXY
+
+HOST-SUFFIX,mozilla.com,PROXY
+HOST-SUFFIX,mozilla.net,PROXY
+HOST-SUFFIX,mozilla.org,PROXY
+HOST-SUFFIX,mofoprod.net,PROXY
+HOST-SUFFIX,mozilla.community,PROXY
+HOST-SUFFIX,services.mozilla.com,PROXY
+HOST-SUFFIX,rust-lang.org,PROXY
+HOST-SUFFIX,rustup.rs,PROXY
+HOST-SUFFIX,seamonkey-project.org,PROXY
+#-SUFFIX,sentry.prod.mozaws.net,PROXY
+HOST-SUFFIX,thunderbird.net,PROXY
+
+  # > Microsoft Edge
+HOST,edge.activity.windows.com,PROXY
+HOST,edge.microsoft.com,PROXY
+HOST,iecvlist.microsoft.com,PROXY
+HOST,msedge.api.cdp.microsoft.com  ,PROXY
+
+  # > Azure,PROXY
+HOST-SUFFIX,azure,PROXY
+HOST-SUFFIX,azure-apim.net,PROXY
+HOST-SUFFIX,azure-dns.com,PROXY
+HOST-SUFFIX,azure-dns.info,PROXY
+HOST-SUFFIX,azure-dns.net,PROXY
+HOST-SUFFIX,azure-dns.org,PROXY
+HOST-SUFFIX,azure-mobile.net,PROXY
+HOST-SUFFIX,azure-sphere.com,PROXY
+HOST-SUFFIX,azure-test.net,PROXY
+
+  # HOST-SUFFIX,azure.cn,PROXY
+HOST-SUFFIX,azure.com,PROXY
+HOST-SUFFIX,azure.net,PROXY
+HOST-SUFFIX,azurecomcdn.net,PROXY
+HOST-SUFFIX,azurecontainer.io,PROXY
+HOST-SUFFIX,azurecosmos.net,PROXY
+HOST-SUFFIX,azurecosmosdb.com,PROXY
+HOST-SUFFIX,azurecosmosdb.info,PROXY
+HOST-SUFFIX,azurecosmosdb.net,PROXY
+HOST-SUFFIX,azuredatabricks.net,PROXY
+HOST-SUFFIX,azuredevopslaunch.com,PROXY
+HOST-SUFFIX,azuredigitaltwin.com,PROXY
+HOST-SUFFIX,azuredigitaltwins.com,PROXY
+HOST-SUFFIX,azuredigitaltwins.net,PROXY
+HOST-SUFFIX,azuredns-prd.info,PROXY
+HOST-SUFFIX,azuredns-prd.org,PROXY
+HOST-SUFFIX,azureedge-test.net,PROXY
+HOST-SUFFIX,azureedge.net,PROXY
+HOST-SUFFIX,azurefd.net,PROXY
+HOST-SUFFIX,azurefd.us,PROXY
+HOST-SUFFIX,azureiotcentral.com,PROXY
+HOST-SUFFIX,azureiotsolutions.com,PROXY
+HOST-SUFFIX,azureiotsuite.com,PROXY
+HOST-SUFFIX,azureplanetscale.info,PROXY
+HOST-SUFFIX,azureplanetscale.net,PROXY
+HOST-SUFFIX,azureserviceprofiler.com,PROXY
+HOST-SUFFIX,azuresmartspaces.net,PROXY
+HOST-SUFFIX,azurestackvalidation.com,PROXY
+HOST-SUFFIX,azurewebsites.net,PROXY
+
+HOST-SUFFIX,cosmosdb.info,PROXY
+HOST-SUFFIX,cosmosdb.net,PROXY
+HOST-SUFFIX,devopsms.com,PROXY
+HOST-SUFFIX,gotcosmos.com,PROXY
+HOST-SUFFIX,microsofteca.com,PROXY
+HOST-SUFFIX,microsoftiotcentral.com,PROXY
+HOST-SUFFIX,serverlesslibrary.net,PROXY
+HOST-SUFFIX,signalr.net,PROXY
+HOST-SUFFIX,tryfunctions.com,PROXY
+  # HOST-SUFFIX,windowsazure.cn,PROXY
+HOST-SUFFIX,windowsazure.com,PROXY
+HOST-SUFFIX,azure.microsoft.com,PROXY
+HOST-SUFFIX,azuremarketplace.microsoft.com,PROXY
+
+  # > Bing
+HOST-SUFFIX,bbing.com,PROXY
+HOST-SUFFIX,bibg.com,PROXY
+HOST-SUFFIX,biing.com,PROXY
+HOST-SUFFIX,binb.com,PROXY
+HOST-SUFFIX,binf.com,PROXY
+HOST-SUFFIX,bing.com,PROXY
+
+HOST-SUFFIX,bing.net,PROXY
+  # HOST-SUFFIX,bing123.com,PROXY
+  # HOST-SUFFIX,bing135.com,PROXY
+HOST-SUFFIX,bing4.com,PROXY
+  # HOST-SUFFIX,bingads.com,PROXY
+HOST-SUFFIX,bingagencyawards.com,PROXY
+HOST-SUFFIX,bingapis.com,PROXY
+  # HOST-SUFFIX,bingapistatistics.com,PROXY
+HOST-SUFFIX,binginternal.com,PROXY
+HOST-SUFFIX,bingit.net,PROXY
+HOST-SUFFIX,bingiton.com,PROXY
+HOST-SUFFIX,bingj.com,PROXY
+HOST-SUFFIX,bingpix.com,PROXY
+HOST-SUFFIX,bingpk.com,PROXY
+HOST-SUFFIX,bings.com,PROXY
+HOST-SUFFIX,bingsandbox.com,PROXY
+HOST-SUFFIX,bingtoolbar.com,PROXY
+HOST-SUFFIX,bingtranslator.com,PROXY
+HOST-SUFFIX,bingvisualsearch.com,PROXY
+HOST-SUFFIX,bingworld.com,PROXY
+
+
+HOST-SUFFIX,bluehatnights.com,PROXY
+HOST-SUFFIX,dictate.ms,PROXY
+HOST-SUFFIX,discoverbing.com,PROXY
+HOST-SUFFIX,explorebing.com,PROXY
+HOST-SUFFIX,flipwithsurface.com,PROXY
+HOST-SUFFIX,mapblast.com,PROXY
+HOST-SUFFIX,mappoint.com,PROXY
+HOST-SUFFIX,masalladeloslimites.com,PROXY
+HOST-SUFFIX,microsoft-give.com,PROXY
+HOST-SUFFIX,microsoftcloudsummit.com,PROXY
+HOST-SUFFIX,microsoftdiplomados.com,PROXY
+HOST-SUFFIX,microsoftlatamholiday.com,PROXY
+HOST-SUFFIX,microsoftmxfilantropia.com,PROXY
+HOST-SUFFIX,microsoftpartnersolutions.com,PROXY
+HOST-SUFFIX,msnmaps.com,PROXY
+HOST-SUFFIX,msunlimitedcloudsummit.com,PROXY
+HOST-SUFFIX,myhomemsn.com,PROXY
+HOST-SUFFIX,office365love.com,PROXY
+HOST-SUFFIX,office365tw.com,PROXY
+HOST-SUFFIX,osdinfra.net,PROXY
+HOST-SUFFIX,renovacionoffice.com,PROXY
+HOST-SUFFIX,sprinklesapp.com,PROXY
+
+
+  # HOST-SUFFIX,ditu.live.com,PROXY
+HOST-SUFFIX,here.com,PROXY
+HOST-SUFFIX,here.net,PROXY
+  # HOST-SUFFIX,heremaps.cn,PROXY
+  # HOST-SUFFIX,ovi.com.cn,PROXY
+
+HOST-SUFFIX,a-msedge.net,PROXY
+HOST-SUFFIX,c-msedge.net,PROXY
+HOST-SUFFIX,e-msedge.net,PROXY
+HOST-SUFFIX,edgesuite.net,PROXY
+HOST-SUFFIX,evoke-windowsservices-tas.msedge,PROXY
+HOST-SUFFIX,microsoftedge.com,PROXY
+HOST-SUFFIX,microsoftedgeinsider.com,PROXY
+HOST-SUFFIX,msedge.net,PROXY
+HOST-SUFFIX,s-msedge.net,PROXY
+
+HOST-SUFFIX,femalefounderscomp.com,PROXY
+HOST-SUFFIX,m12.vc,PROXY
+
+HOST-SUFFIX,adaptivecards.io,PROXY
+HOST-SUFFIX,api-extractor.com,PROXY
+HOST-SUFFIX,apisof.net,PROXY
+HOST-SUFFIX,appcenter.ms,PROXY
+HOST-SUFFIX,blazor.net,PROXY
+HOST-SUFFIX,botframework.com,PROXY
+HOST-SUFFIX,codethemicrobit.com,PROXY
+HOST-SUFFIX,devopsassessment.net,PROXY
+HOST-SUFFIX,dot.net,PROXY
+HOST-SUFFIX,exp-tas.com,PROXY
+HOST-SUFFIX,gamesstack.com,PROXY
+HOST-SUFFIX,graphengine.io,PROXY
+HOST-SUFFIX,insiderdevtour.com,PROXY
+HOST-SUFFIX,jwt.ms,PROXY
+HOST-SUFFIX,microbit.org,PROXY
+HOST-SUFFIX,microsoftadc.com,PROXY
+HOST-SUFFIX,microsoftgamestack.com,PROXY
+HOST-SUFFIX,microsoftiotinsiderlabs.com,PROXY
+  # HOST-SUFFIX,microsoftreactor.cn,PROXY
+  # HOST-SUFFIX,microsoftreactor.com.cn,PROXY
+HOST-SUFFIX,microsoftreactor.info,PROXY
+HOST-SUFFIX,microsoftreactor.net,PROXY
+HOST-SUFFIX,microsoftreactor.org,PROXY
+HOST-SUFFIX,microsoftsilverlight.com,PROXY
+HOST-SUFFIX,microsoftsilverlight.net,PROXY
+HOST-SUFFIX,microsoftsilverlight.org,PROXY
+HOST-SUFFIX,microsoftsqlserver.com,PROXY
+HOST-SUFFIX,mmdnn.com,PROXY
+HOST-SUFFIX,mono-project.com,PROXY
+HOST-SUFFIX,msdn.com,PROXY
+HOST-SUFFIX,msinnovationchallenge.com,PROXY
+HOST-SUFFIX,mspairlift.com,PROXY
+HOST-SUFFIX,msropendata.com,PROXY
+HOST-SUFFIX,nuget.org,PROXY
+HOST-SUFFIX,nugettest.org,PROXY
+HOST-SUFFIX,opentranslatorstothings.org,PROXY
+HOST-SUFFIX,poshtestgallery.com,PROXY
+HOST-SUFFIX,pwabuilder.com,PROXY
+  # HOST-SUFFIX,reactorms.com.cn,PROXY
+HOST-SUFFIX,sankie.net,PROXY
+HOST-SUFFIX,sqlserveronlinux.com,PROXY
+HOST-SUFFIX,timelinestoryteller.com,PROXY
+HOST-SUFFIX,uwpcommunitytoolkit.com,PROXY
+HOST-SUFFIX,vfsforgit.com,PROXY
+HOST-SUFFIX,vfsforgit.org,PROXY
+HOST-SUFFIX,xamarin.com,PROXY
+HOST-SUFFIX,developer.microsoft.com,PROXY
+HOST-SUFFIX,dtlgalleryint.cloudapp.net,PROXY
+HOST-SUFFIX,poshtestgallery.cloudapp.net,PROXY
+HOST-SUFFIX,psg-int-centralus.cloudapp.net,PROXY
+HOST-SUFFIX,psg-int-eastus.cloudapp.net,PROXY
+
+
+  # > Microsoft Office
+  # HOST-SUFFIX,o365cn.com,PROXY
+  # HOST-SUFFIX,o365files.cn,PROXY
+HOST-SUFFIX,o365weve-dev.com,PROXY
+HOST-SUFFIX,o365weve-ppe.com,PROXY
+HOST-SUFFIX,o365weve.com,PROXY
+HOST-SUFFIX,office,PROXY
+HOST-SUFFIX,office.com,PROXY
+HOST-SUFFIX,office.net,PROXY
+HOST-SUFFIX,office365.com,PROXY
+  # HOST-SUFFIX,officedev.cn,PROXY
+
+  # > OneDrive
+HOST-SUFFIX,1drv.com,PROXY
+HOST-SUFFIX,1drv.ms,PROXY
+HOST-SUFFIX,livefilestore.com,PROXY
+HOST-SUFFIX,oneclient.sfx.ms,PROXY
+HOST-SUFFIX,onedrive.co,PROXY
+HOST-SUFFIX,onedrive.co.uk,PROXY
+HOST-SUFFIX,onedrive.com,PROXY
+HOST-SUFFIX,onedrive.eu,PROXY
+HOST-SUFFIX,onedrive.live.com,PROXY
+HOST-SUFFIX,onedrive.net,PROXY
+HOST-SUFFIX,onedrive.org,PROXY
+HOST-SUFFIX,photos.live.com,PROXY
+HOST-SUFFIX,sharepoint.com,PROXY
+HOST-SUFFIX,sharepointonline.com,PROXY
+HOST-SUFFIX,skydrive.wns.windows.com,PROXY
+HOST-SUFFIX,spoprod-a.akamaihd.net,PROXY
+HOST-SUFFIX,storage.live.com,PROXY
+HOST-SUFFIX,storage.msn.com,PROXY
+HOST-KEYWORD,1drv,PROXY
+   # DOMAIN-KEYWORD,onedrive,PROXY
+   # DOMAIN-KEYWORD,skydrive,PROXY
+USER-AGENT,OneDrive,PROXY
+USER-AGENT,OneDriveUpdater,PROXY
+
+  # > Skype
+HOST-SUFFIX,groupme.com,PROXY
+HOST-SUFFIX,skype.com,PROXY
+HOST-SUFFIX,skype.net,PROXY
+HOST-SUFFIX,skypeassets.com,PROXY
+HOST-SUFFIX,skypeassets.net,PROXY
+HOST-SUFFIX,skypeforbusiness.com,PROXY
+HOST-SUFFIX,sway-cdn.com,PROXY
+HOST-SUFFIX,sway-extensions.com,PROXY
+HOST-SUFFIX,sway.com,PROXY
+
+  # > Visual Studio Code
+HOST-SUFFIX,visualstudio-staging.com,PROXY
+HOST-SUFFIX,visualstudio.co,PROXY
+HOST-SUFFIX,visualstudio.co.uk,PROXY
+HOST-SUFFIX,visualstudio.com,PROXY
+HOST-SUFFIX,visualstudio.eu,PROXY
+HOST-SUFFIX,visualstudio.net,PROXY
+HOST-SUFFIX,vsassets.io,PROXY
+HOST-SUFFIX,vscode-unpkg.net,PROXY
+HOST-SUFFIX,vscode-webview.net,PROXY
+HOST-SUFFIX,vscode.dev,PROXY
+HOST,mobile.events.data.microsoft.com,PROXY
+HOST,az764295.vo.msecnd.net,PROXY
+
+
+  # > Microsoft XiaoBing,PROXY
+  # HOST-SUFFIX,aicscience.com,PROXY
+  # HOST-SUFFIX,mmais.com.cn,PROXY
+  # HOST-SUFFIX,msminico.cn,PROXY
+  # HOST-SUFFIX,msminico.com.cn,PROXY
+  # HOST-SUFFIX,msxiaobing.com,PROXY
+  # HOST-SUFFIX,msxiaoice.com,PROXY
+  # HOST-SUFFIX,msxiaona.cn,PROXY
+  # HOST-SUFFIX,officeplus.cn,PROXY
+  # HOST-SUFFIX,renlifang.com,PROXY
+
+
+  # > Xbox Series
+HOST,img-prod-cms-rt-microsoft-com.akamaized.net,PROXY
+HOST,login.live.com,PROXY
+HOST,logincdn.msauth.net,PROXY
+HOST,store-images.s-microsoft.com,PROXY
+HOST-SUFFIX,beth.games,PROXY
+HOST-SUFFIX,bethesda.net,PROXY
+HOST-SUFFIX,bethesdagamestudios.com,PROXY
+HOST-SUFFIX,bethsoft.com,PROXY
+HOST-SUFFIX,callersbane.com,PROXY
+HOST-SUFFIX,doom.com,PROXY
+HOST-SUFFIX,elderscrolls.com,PROXY
+HOST-SUFFIX,forzamotorsport.net,PROXY
+HOST-SUFFIX,forzaracingchampionship.com,PROXY
+HOST-SUFFIX,forzarc.com,PROXY
+HOST-SUFFIX,gamepass.com,PROXY
+HOST-SUFFIX,minecraft.net,PROXY
+HOST-SUFFIX,minecraftshop.com,PROXY
+HOST-SUFFIX,mojang.com,PROXY
+HOST-SUFFIX,msgamestudios.com,PROXY
+HOST-SUFFIX,orithegame.com,PROXY
+HOST-SUFFIX,renovacionxboxlive.com,PROXY
+HOST-SUFFIX,tellmewhygame.com,PROXY
+HOST-SUFFIX,xbox.co,PROXY
+HOST-SUFFIX,xbox.com,PROXY
+HOST-SUFFIX,xbox.eu,PROXY
+HOST-SUFFIX,xbox.org,PROXY
+HOST-SUFFIX,xbox360.co,PROXY
+HOST-SUFFIX,xbox360.com,PROXY
+HOST-SUFFIX,xbox360.eu,PROXY
+HOST-SUFFIX,xbox360.org,PROXY
+HOST-SUFFIX,xboxab.com,PROXY
+HOST-SUFFIX,xboxab.net,PROXY
+HOST-SUFFIX,xboxgamepass.com,PROXY
+HOST-SUFFIX,xboxgamestudios.com,PROXY
+  # HOST-SUFFIX,xboxlive.cn,PROXY
+HOST-SUFFIX,xboxlive.com,PROXY
+HOST-SUFFIX,xboxone.co,PROXY
+HOST-SUFFIX,xboxone.com,PROXY
+HOST-SUFFIX,xboxone.eu,PROXY
+HOST-SUFFIX,xboxplayanywhere.com,PROXY
+HOST-SUFFIX,xboxservice.com,PROXY
+HOST-SUFFIX,xboxservices.com,PROXY
+HOST-SUFFIX,xboxstudios.com,PROXY
+HOST-SUFFIX,xbx.lv,PROXY
+
+  # > Minecraft and Activision Blizzard
+HOST-SUFFIX,callersbane.com,PROXY
+HOST-SUFFIX,minecraft.net,PROXY
+HOST-SUFFIX,minecraftshop.com,PROXY
+HOST-SUFFIX,mojang.com,PROXY
+
+HOST-SUFFIX,beth.games,PROXY
+HOST-SUFFIX,bethesda.net,PROXY
+HOST-SUFFIX,bethesdagamestudios.com,PROXY
+HOST-SUFFIX,bethsoft.com,PROXY
