@@ -1,0 +1,60 @@
+# Fast
+HOST-SUFFIX,fast.com,PROXY
+
+# Speedtest by Ookla
+USER-AGENT,SpeedTest*,PROXY
+HOST-SUFFIX,fast.com,PROXY
+HOST-KEYWORD,speedtest,PROXY
+HOST-SUFFIX,ooklaserver.net,PROXY
+HOST,cdn.cookielaw.org,PROXY
+HOST,geolocation.onetrust.com,PROXY
+HOST-SUFFIX,speed.cloudflare.com,PROXY
+HOST,cdn.jwplayer.com,PROXY
+HOST,fastly.jsdelivr.net,PROXY
+HOST-SUFFIX,speed.dler.io,PROXY
+
+# Speed Test by Cloudflare
+HOST-SUFFIX,speed.cloudflare.com,PROXY
+
+# OpenClash Login IP Test 
+HOST,ip.fm,PROXY
+HOST,api.ttt.sh,PROXY
+HOST,api.ipify.org,PROXY
+HOST,qqwry.api.skk.moe,PROXY
+HOST,api-ipv4.ip.sb,PROXY
+HOST,ftp.jaist.ac.jp,PROXY
+
+# Control jsDliver
+HOST,cdn.jsdelivr.net,PROXY
+HOST-SUFFIX,jsdelivr.net,PROXY
+
+# Block wsj video auto play
+HOST,video-api.shdsvc.dowjones.io,PROXY
+
+# Linsys LAN 
+HOST-SUFFIX,pool.ntp.org,DIRECT  
+HOST,connect.linksys.com,DIRECT
+HOST,update1.linksys.com,DIRECT
+HOST,cloudhealth.lswf.net,DIRECT
+HOST,xmpp.linksyssmartwifi.com,DIRECT
+HOST,cloud1.linksyssmartwifi.com,DIRECT
+HOST,http-inputs-belkin.splunkcloud.com,DIRECT
+
+# IPleak check DNS leak
+HOST,ipv4.ping0.cc,PROXY
+HOST,ipv6.ping0.cc,PROXY
+HOST-SUFFIX,dnsleaktest.com,PROXY
+HOST-SUFFIX,dnsleak.com,PROXY
+HOST-SUFFIX,expressvpn.com,PROXY
+HOST-SUFFIX,nordvpn.com,PROXY
+HOST-SUFFIX,surfshark.com,PROXY
+HOST-SUFFIX,ipleak.net,PROXY
+HOST-SUFFIX,ipcheck.ing,PROXY
+HOST-SUFFIX,edns.ip-api.com,PROXY
+HOST-SUFFIX,ipv4.surfsharkdns.com,PROXY
+HOST-SUFFIX,perfect-privacy.com,PROXY
+HOST-SUFFIX,browserleaks.com,PROXY
+HOST-SUFFIX,browserleaks.org,PROXY
+HOST-SUFFIX,vpnunlimited.com,PROXY
+HOST-SUFFIX,whoer.net,PROXY
+HOST-SUFFIX,whrq.net,PROXY
