@@ -1,8 +1,15 @@
 # ---(Microsoft)---
 # > Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,smtp.office365.com
+HOST,outlook.office365.com
+HOST,imap-mail.outlook.com,DIRECT
+HOST,imap.gmail.com,DIRECT
+HOST,outlook.office365.com,DIRECT
+HOST,pop.gmail.com,DIRECT
+HOST,smtp-mail.outlook.com,DIRECT
+HOST,smtp.gmail.com,DIRECT
+HOST,smtp.office365.com,DIRECT
+HOST-SUFFIX,apple.imap.mail.yahoo.com,DIRECT
+HOST-SUFFIX,m.hotmail.com,DIRECT
 # > Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
