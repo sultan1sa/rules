@@ -1,5 +1,4 @@
 HOST,ip-scan.adspower.net,PROXY
-HOST-SUFFIX,immersivetranslate.com,PROXY
 HOST-SUFFIX,browserscan.net,PROXY
 HOST-SUFFIX,edns.ip-api.com,PROXY
 HOST-SUFFIX,ipv4.surfsharkdns.com,PROXY
