@@ -1,4 +1,82 @@
-# > Amazon
+# > Cloudflare
+# >> Main Domain
+host-suffix,cloudflare.com,DIRECT
+host-suffix,cloudflare.net,DIRECT
+host-suffix,cloudflare.tv,DIRECT
+host-suffix,cloudflare-quic.com,DIRECT
+host-suffix,cloudflareaccess.com,DIRECT
+host-suffix,cloudflareapps.com,DIRECT
+host-suffix,cloudflarebolt.com,DIRECT
+host-suffix,cloudflareclient.com,DIRECT
+host-suffix,cloudflareinsights.com,DIRECT
+host-suffix,cloudflareok.com,DIRECT
+host-suffix,cloudflarepreview.com,DIRECT
+host-suffix,cloudflareresolve.com,DIRECT
+host-suffix,cloudflaressl.com,DIRECT
+host-suffix,cloudflarestatus.com,DIRECT
+host-suffix,cloudflarestorage.com,DIRECT
+host-suffix,cloudflarestream.com,DIRECT
+host-suffix,cloudflaretest.com,DIRECT
+host-suffix,pacloudflare.com,DIRECT
+host-suffix,trycloudflare.com,DIRECT
+host-suffix,videodelivery.net,DIRECT
+
+# >> DNS & WARP
+host-suffix,warp.plus,DIRECT
+host-suffix,cloudflarewarp.com,DIRECT
+host-suffix,cloudflare-dns.com,DIRECT
+host-suffix,one.one.one,DIRECT
+host-suffix,every1dns.net,DIRECT
+
+# >> Pages
+host-suffix,pages.dev,DIRECT
+
+# >> Workers
+host-suffix,workers.dev,DIRECT
+
+# >> IPFS
+host-suffix,cf-ipfs.com,DIRECT
+host-suffix,cloudflare-ipfs.com,DIRECT
+
+# >> CN Part
+host-suffix,cf-ns.com,DIRECT
+host-suffix,cf-ns.net,DIRECT
+host-suffix,cf-ns.site,DIRECT
+host-suffix,cf-ns.tech,DIRECT
+host-suffix,cftest5.cn,DIRECT
+host-suffix,cftest6.cn,DIRECT
+host-suffix,cftest7.com,DIRECT
+host-suffix,cftest8.com,DIRECT
+host-suffix,cloudflare-cn.com,DIRECT
+host-suffix,cloudflarecn.net,DIRECT
+host-suffix,cloudflareinsights-cn.com,DIRECT
+host-suffix,cloudflareprod.com,DIRECT
+host-suffix,cloudflarestaging.com,DIRECT
+host-suffix,cloudflarestoragegw.com,DIRECT
+
+# >> Cloudflare IP-CIDR
+ip-cidr,103.21.244.0/22,DIRECT
+ip-cidr,103.22.200.0/22,DIRECT
+ip-cidr,103.31.4.0/22,DIRECT
+ip-cidr,104.16.0.0/13,DIRECT
+ip-cidr,104.24.0.0/14,DIRECT
+ip-cidr,108.162.192.0/18,DIRECT
+ip-cidr,131.0.72.0/22,DIRECT
+ip-cidr,141.101.64.0/18,DIRECT
+ip-cidr,162.158.0.0/15,DIRECT
+ip-cidr,172.64.0.0/13,DIRECT
+ip-cidr,173.245.48.0/20,DIRECT
+ip-cidr,188.114.96.0/20,DIRECT
+ip-cidr,190.93.240.0/20,DIRECT
+ip-cidr,197.234.240.0/22,DIRECT
+ip-cidr,198.41.128.0/17,DIRECT
+ip6-cidr,2400:cb00::/32,DIRECT
+ip6-cidr,2606:4700::/32,DIRECT
+ip6-cidr,2803:f800::/32,DIRECT
+ip6-cidr,2405:b500::/32,DIRECT
+ip6-cidr,2405:8100::/32,DIRECT
+ip6-cidr,2a06:98c0::/29,DIRECT
+ip6-cidr,2c0f:f248::/32,DIRECT
 
 
 
