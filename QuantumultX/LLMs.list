@@ -14,7 +14,122 @@ HOST-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
 HOST-SUFFIX,makersuite.google.com,PROXY
 HOST-SUFFIX,generativeai.google,PROXY
 
-HOST,content-developerprofiles-pa.googleapis.com,PROXY
+# >> Google
+host-keyword,google,PROXY
+host-suffix,265.com,PROXY
+
+# > Alphabet Websites 
+host-suffix,abc.xyz,PROXY
+host-suffix,capitalg.com,PROXY
+
+# > Android
+host-suffix,android.com,PROXY
+host-suffix,androidify.com,PROXY
+
+# > Appspot
+host-keyword,appspot,PROXY
+
+# > Chrome & Chromium
+host-suffix,chrome.com,PROXY
+host-suffix,chromeexperiments.com,PROXY
+host-suffix,chromestatus.com,PROXY
+host-suffix,chromium.org,PROXY
+host-suffix,whatbrowser.org,PROXY
+
+# > Google AI
+host-suffix,autodraw.com,PROXY
+host-suffix,deepmind.com,PROXY
+host-suffix,tensorflow.org,PROXY
+host-suffix,tfhub.dev,PROXY
+
+# > Google APIs
+host,translate.googleapis.com,PROXY
+host-suffix,googleapis.com,PROXY
+
+# > Google Blogger
+host-keyword,blogspot,PROXY
+host-suffix,blogger.com,PROXY
+host-suffix,googleblog.com,PROXY
+
+# > Google Cloud Platform
+host-suffix,dialogflow.com,PROXY
+host-suffix,gcp.gvt2.com,PROXY
+
+# > Google Developer
+host-keyword,googlesource,PROXY
+host-suffix,godoc.org,PROXY
+host-suffix,golang.org,PROXY
+host-suffix,googlemashups.com,PROXY
+host-suffix,gwtproject.org,PROXY
+host-suffix,itasoftware.com,PROXY
+host-suffix,pkg.go.dev,PROXY
+host-suffix,shattered.io,PROXY
+host-suffix,waveprotocol.org,PROXY
+host-suffix,webmproject.org,PROXY
+host-suffix,webrtc.org,PROXY
+host-suffix,withgoogle.com,PROXY
+
+# > Google Education
+host-suffix,madewithcode.com,PROXY
+
+# > Google Enterprise
+host-suffix,synergyse.com,PROXY
+
+# > Gmail
+host-keyword,gmail,PROXY
+
+# > Google Recaptcha
+host-keyword,recaptcha,PROXY
+
+# > Google Static Files
+host-suffix,gstatic.com,PROXY
+host-suffix,gmodules.com,PROXY
+host-suffix,googleusercontent.com,PROXY
+host-suffix,gvt0.com,PROXY
+host-suffix,gvt1.com,PROXY
+host-suffix,gvt3.com,PROXY
+
+# > Google VR
+host-suffix,tiltbrush.com,PROXY
+
+# > Material Design
+host-suffix,getmdl.io,PROXY
+host-suffix,material.io,PROXY
+
+# > Other
+host-suffix,blog.google,DIRECT
+host-suffix,certificate-transparency.org,PROXY
+host-suffix,certificate-transparency.dev,PROXY
+host-suffix,creativelab5.com,PROXY
+host-suffix,debug.com,PROXY
+host-suffix,gv.com,PROXY
+host-suffix,polymer-project.org,PROXY
+host-suffix,waymo.com,PROXY
+host-suffix,widevine.com,PROXY
+host-suffix,x.company,PROXY
+
+# > Google IP-CIDR
+ip-cidr,173.194.0.0/16,PROXY
+ip-cidr,74.125.0.0/16,PROXY
+
+# > Google Domestic CDNs
+host,clientservices.googleapis.com,PROXY
+host,fonts.googleapis.com,PROXY
+host,fonts.gstatic.com,PROXY
+host,ocsp.pki.goog,PROXY
+host,crl.pki.goog,PROXY
+host,redirector.c.bigcache.googleapis.com,PROXY
+host,redirector.gvt1.com,PROXY
+host,safebrowsing.googleapis.com,PROXY
+host,safebrowsing-cache.google.com,PROXY
+host-suffix,dl.google.com,PROXY
+host-suffix,dl.l.google.com,PROXY
+host-suffix,google.cn,PROXY
+host-suffix,googletraveladservices.com,PROXY
+host-suffix,ssl.gstatic.com,PROXY
+host-suffix,tools.google.com,PROXY
+host-suffix,tools.l.google.com,PROXY
+host-suffix,update.googleapis.com,PROXY
 
 # OpenAI
 HOST-SUFFIX,openai.com,PROXY
