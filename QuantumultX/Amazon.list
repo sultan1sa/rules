@@ -1,0 +1,144 @@
+# > Amazon
+
+
+
+# >> Amazon TLD
+host-suffix,xn--cckwcxetd,PROXY
+host-suffix,xn--jlq480n2rg,PROXY
+
+# >> Amazon Sites
+host-wildcard,amazon.*,PROXY
+host-wildcard,aboutamazon*,PROXY
+host-suffix,a2z.com,PROXY
+host-suffix,amaaozn.com,PROXY
+host-suffix,amazon-adsystem.com,PROXY
+host-suffix,amazon-fashions.com,PROXY
+host-suffix,amazon-jp-recruiting.com,PROXY
+host-suffix,amazon-lantern.com,PROXY
+host-suffix,amazon-launchpad.com,PROXY
+host-suffix,amazonalexavoxcon.com,PROXY
+host-suffix,amazonauthorinsights.com,PROXY
+host-suffix,amazonbusiness.cn,PROXY
+host-suffix,amazonbusiness.com.cn,PROXY
+host-suffix,amazonbusiness.org,PROXY
+host-suffix,amazonbusinessblog.com,PROXY
+host-suffix,amazonchoice.cn,PROXY
+host-suffix,amazonchoice.com.cn,PROXY
+host-suffix,amazonchoices.cn,PROXY
+host-suffix,amazonchoices.com.cn,PROXY
+host-suffix,amazondevicesupport.com,PROXY
+host-suffix,amazonfctours.com,PROXY
+host-suffix,amazonianblog.com,PROXY
+host-suffix,amazonimages.com,PROXY
+host-suffix,amazoninspire.cn,PROXY
+host-suffix,amazoninspire.com.cn,PROXY
+host-suffix,amazonlaunchpad.cn,PROXY
+host-suffix,amazonlaunchpad.com,PROXY
+host-suffix,amazonlaunchpad.com.cn,PROXY
+host-suffix,amazonlending.com.cn,PROXY
+host-suffix,amazonliterarypartnership.com,PROXY
+host-suffix,amazonlumberyard.wang,PROXY
+host-suffix,amazonnow.cn,PROXY
+host-suffix,amazonnow.com.cn,PROXY
+host-suffix,amazonpay.com,PROXY
+host-suffix,amazonpay.in,PROXY
+host-suffix,amazonsdi.com,PROXY
+host-suffix,amazonstudiosguilds.com,PROXY
+host-suffix, amazontools.com,PROXY
+host-suffix, amazontours.com,PROXY
+host-suffix, amazonuniversity.jobs,PROXY
+host-suffix,amplifyapp.com,PROXY
+host-suffix,amplifyframework.com,PROXY
+host-suffix,amzn.asia,PROXY
+host-suffix,amzn.com,PROXY
+host-suffix,amzn.to,PROXY
+host-suffix,amznl.com,PROXY
+host-suffix,assoc-amazon.cn,PROXY
+host-suffix,seattlespheres.com,PROXY
+host-suffix,ueberamazon.de,PROXY
+
+# >> Amazon CN
+host-suffix,yamaxun,PROXY
+host-suffix,yamaxun.cn,PROXY
+host-suffix,yamaxun.com,PROXY
+host-suffix,z.cn,PROXY
+
+# >> Amazon AWS
+host-wildcard,amazonaws.*,PROXY
+host-suffix,aws,PROXY
+host-suffix,acmvalidations.com,PROXY
+host-suffix,acmvalidationsaws.com,PROXY
+host-suffix,associates-amazon.com,PROXY
+host-suffix,amazonaws-china.com,PROXY
+host-suffix,amazonaws.com,PROXY
+host-suffix,amazontrust.com,PROXY
+host-suffix,amazonworkdocs.cn,PROXY
+host-suffix,amazonworkdocs.com,PROXY
+host-suffix,amazonworkdocs.com.cn,PROXY
+host-suffix,awscloud.com,PROXY
+host-suffix,aws-iot-hackathon.com,PROXY
+host-suffix,awsautopilot.com,PROXY
+host-suffix,awsautoscaling.com,PROXY
+host-suffix,awsbraket.com,PROXY
+host-suffix,awscommandlineinterface.com,PROXY
+host-suffix,awsedstart.com,PROXY
+host-suffix,awseducate.com,PROXY
+host-suffix,awseducate.net,PROXY
+host-suffix,awseducate.org,PROXY
+host-suffix,awsloft-johannesburg.com,PROXY
+host-suffix,awsloft-stockholm.com,PROXY
+host-suffix,awssecworkshops.com,PROXY
+host-suffix,awsstatic.com,PROXY
+host-suffix,awsthinkbox.com,PROXY
+host-suffix,awstrack.me,PROXY
+host-suffix,awstrust.com,PROXY
+host-suffix,cdkworkshop.com,PROXY
+host-suffix,cloudfront.net,PROXY
+host-suffix,containersonaws.com,PROXY
+host-suffix,elasticbeanstalk.com,PROXY
+host-suffix,gdansk-amazon.com,PROXY
+host-suffix,images-amazon.com,PROXY
+host-suffix,media-amazon.com,PROXY
+host-suffix,siege-amazon.com,PROXY
+host-suffix,ssl-images-amazon.com,PROXY
+host-suffix,thinkboxsoftware.com,PROXY
+
+# >> Alexa
+host-suffix,alexa.com,PROXY
+host-suffix,alexafund.cn,PROXY
+host-suffix,alexafund.com.cn,PROXY
+
+# >> Developer
+host-suffix,aesworkshops.com,PROXY
+
+# >> Kindle
+host-wildcard,kindle.*,PROXY
+host-wildcard,kindleoasis.*,PROXY
+host-suffix,kindle.cn,PROXY
+host-suffix,kindleoasisnews.com,PROXY
+host-suffix,kindleproject.com,PROXY
+
+# >> Sites on Amazon AWS
+host-suffix,boxofficemojo.com,PROXY
+host-suffix,imdb,PROXY
+host-suffix,imdb.com,PROXY
+host-suffix,imdb.to,PROXY
+host-suffix,media-imdb.com,PROXY
+host-suffix,gameon-masters.com,PROXY
+
+# >> Amazon IP-CIDR
+ip-cidr,13.32.0.0/15,PROXY
+ip-cidr,13.35.0.0/17,PROXY
+ip-cidr,18.184.0.0/15,PROXY
+ip-cidr,18.194.0.0/15,PROXY
+ip-cidr,18.208.0.0/13,PROXY
+ip-cidr,18.232.0.0/14,PROXY
+ip-cidr,52.200.0.0/13,PROXY
+ip-cidr,52.58.0.0/15,PROXY
+ip-cidr,52.74.0.0/16,PROXY
+ip-cidr,52.77.0.0/16,PROXY
+ip-cidr,52.84.0.0/15,PROXY
+ip-cidr,54.156.0.0/14,PROXY
+ip-cidr,54.226.0.0/15,PROXY
+ip-cidr,54.230.156.0/22,PROXY
+ip-cidr,54.93.0.0/16,PROXY
