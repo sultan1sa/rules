@@ -1,7 +1,31 @@
 # Internet Service Providers Hijacking
 # Source DivineEngine/Profiles/blob/master/Clash/RuleSet/Guard/Hijacking.yaml
 # Update with Janlay's public ruleset blocked-domains-clash.txt 
-
+# Google
+host-suffix, doubleclick.net, reject
+host-suffix, googleadservices.com, reject
+host-suffix, googleadsserving.cn, reject
+host-suffix, googlesyndication.com, reject
+host-suffix, googletagmanager.com, reject
+host-suffix, googletagservices.com, reject
+host-suffix, safebrowsing.googleapis.com, reject
+host-wildcard, *firebaselogging*, reject
+# Privacy & Tracker
+host-suffix, adjust.com, reject
+host-suffix, app-measurement.com, reject
+host-suffix, appsflyer.com, reject
+host-suffix, branch.io, reject
+host-suffix, bugly.qq.com, reject
+host-suffix, crashlytics.com, reject
+host-wildcard, *advertising*, reject
+host-wildcard, *analytics*, reject
+host-wildcard, *applovin*, reject
+host-wildcard, *applvn*, reject
+host-wildcard, *jpush*, reject
+host-wildcard, *sentry*, reject
+#host-wildcard, *track*, reject
+host-wildcard, *umeng*, reject
+host-wildcard, *unityads*, reject
 # add by me 
 HOST,support.theguardian.com,REJECT
 HOST,contributions.guardianapis.com,REJECT
