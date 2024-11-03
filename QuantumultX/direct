@@ -14,6 +14,13 @@ HOST-SUFFIX,m.hotmail.com,DIRECT
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
+## > Snap
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co
 # > Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
