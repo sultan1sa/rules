@@ -1,0 +1,92 @@
+# > Microsoft
+host, assets1.xboxlive.com, proxy
+host, assets2.xboxlive.com, proxy
+host, az416426.vo.msecnd.net, proxy
+host, az668014.vo.msecnd.net, proxy
+host-suffix, bing.com, proxy
+host-suffix, bing.net, proxy
+host-suffix, bingapis.com, proxy
+host-suffix, linkedin.com, proxy
+host-suffix, licdn.com, proxy
+host-suffix, msn.com, proxy
+host-suffix, skype.com, proxy
+host-suffix, aka.ms, proxy
+host-suffix, streaming.mediaservices.windows.net, proxy
+host-suffix, microsoft.com, proxy
+host-suffix, office.com, proxy
+host-suffix, office.net, proxy
+host-suffix, office365.com, proxy
+host-suffix, outlook.com, proxy
+host-suffix, live.com, proxy
+host-suffix, appcenter.ms, proxy
+host-suffix, msauth.net, proxy
+host-suffix, microsoftonline.com, proxy
+host-suffix, microsoftapp.net, proxy
+host-suffix, microsoft-falcon.io, proxy
+host-suffix, microsofttranslator.com, proxy
+host-suffix, api.cortana.ai, proxy
+
+
+
+
+# > GitHub
+host-suffix, github.blog, DIRECT
+host-suffix, github.com, DIRECT
+host-suffix, github.io, DIRECT
+host-suffix, githubapp.com, DIRECT
+host-suffix, rawgithub.com, DIRECT
+host-suffix, githubassets.com, DIRECT
+host-suffix, githubusercontent.com, DIRECT
+host-keyword, github, DIRECT
+
+# > Gitlab
+host-suffix, gitlab.io, DIRECT
+host-suffix, gitlab.com, DIRECT
+host-suffix, gitlab.net, DIRECT
+
+# > Cloudflare
+host-suffix, warp.plus, DIRECT
+host-suffix, cloudflare.com, DIRECT
+host-suffix, cloudflare.net, DIRECT
+host-suffix, cloudflareclient.com, DIRECT
+
+# > Signal
+host-suffix, signal.org, DIRECT
+host-suffix, hcaptcha.com, DIRECT
+host-suffix, signalcaptchas.org, DIRECT
+
+# > Tutanota
+host-suffix, tuta.com, DIRECT
+host-suffix, tutanota.com, DIRECT
+
+# > Proton
+host-suffix, pm.me, proxy
+host-suffix, protonmail.com, proxy
+host-suffix, proton.me, proxy
+
+# > Deepl
+host-suffix, deepl.com, DIRECT
+
+# > Papago
+host-suffix, naver.com, proxy
+host-suffix, naver.net, proxy
+
+# > Mail
+host, s.uicdn.com, DIRECT
+host, cdn.cookielaw.org, DIRECT
+host-suffix, mail.com, DIRECT
+host-suffix, ui-portal.de, DIRECT
+
+# > Yahoo
+host-suffix, oath.com, DIRECT
+host-suffix, yahoo.com, DIRECT
+
+# > DuckDuckGo
+host-suffix, duckduckgo.com, proxy
+
+# > 代理工具
+host-keyword, nsloon, DIRECT
+host-keyword, quantumult, proxy
+
+# > 其他
+HOST-KEYWORD, mail, DIRECT
