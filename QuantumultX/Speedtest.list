@@ -2,7 +2,6 @@
 HOST-SUFFIX,fast.com,PROXY
 
 # Speedtest by Ookla
-USER-AGENT,SpeedTest*,PROXY
 HOST-SUFFIX,fast.com,PROXY
 HOST-KEYWORD,speedtest,PROXY
 HOST-SUFFIX,ooklaserver.net,PROXY
@@ -14,7 +13,7 @@ HOST,fastly.jsdelivr.net,PROXY
 HOST-SUFFIX,speed.dler.io,PROXY
 
 # Speed Test by Cloudflare
-HOST-SUFFIX,speed.cloudflare.com,PROXY
+HOST,speed.cloudflare.com,PROXY
 
 # OpenClash Login IP Test 
 HOST,ip.fm,PROXY
