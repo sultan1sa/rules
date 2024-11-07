@@ -1,4 +1,9 @@
 # > Cloudflare
+# > Gmail
+host-keyword,gmail,DIRECT
+
+# > Google Recaptcha
+host-keyword,recaptcha,DIRECT
 # >> Main Domain
 host-suffix,cloudflare.com,DIRECT
 host-suffix,cloudflare.net,DIRECT
