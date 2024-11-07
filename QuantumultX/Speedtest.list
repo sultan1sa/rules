@@ -56,3 +56,82 @@ HOST-SUFFIX,browserleaks.org,PROXY
 HOST-SUFFIX,vpnunlimited.com,PROXY
 HOST-SUFFIX,whoer.net,PROXY
 HOST-SUFFIX,whrq.net,PROXY
+# 内容: 📡 IP｜测速 规则集
+# 备注: 本列表为IP检测及测速相关域名，其他移步至https://github.com/ydddj/ProxyTools
+# 更新: 2024年07月24日07:27:51
+# 数量: 71条
+
+
+# IP查询
+DOMAIN-SUFFIX,2023.ip138.com,PROXY
+DOMAIN-SUFFIX,6.ipchaxun.net,PROXY
+DOMAIN-SUFFIX,api.ipinfo.be,PROXY
+DOMAIN-SUFFIX,api.myip.la,PROXY
+DOMAIN-SUFFIX,chaip.org,PROXY
+DOMAIN-SUFFIX,ez2o.com,PROXY
+DOMAIN-SUFFIX,ip-api.com,PROXY
+DOMAIN-SUFFIX,ip.900cha.com,PROXY
+DOMAIN-SUFFIX,ip.sb,PROXY
+DOMAIN-SUFFIX,ip.skk.moe,PROXY
+DOMAIN-SUFFIX,ip125.com,PROXY
+DOMAIN-SUFFIX,ipaddress.my,PROXY
+DOMAIN-SUFFIX,ipapi.co,PROXY
+DOMAIN-SUFFIX,iphw.in0.cc,PROXY
+DOMAIN-SUFFIX,ipify.org,PROXY
+DOMAIN-SUFFIX,ipinfo.io,PROXY
+DOMAIN-SUFFIX,jsonp-ip.com,PROXY
+DOMAIN-SUFFIX,mip.chinaz.com,PROXY
+DOMAIN-SUFFIX,qifu-api.baidubce.com,PROXY
+DOMAIN-SUFFIX,sojson.com,PROXY
+DOMAIN-SUFFIX,tool.lu,PROXY
+DOMAIN-SUFFIX,wtfismyip.com,PROXY
+
+# IP归属地
+# > 抖音
+DOMAIN,sso.douyin.com,PROXY
+DOMAIN,www.douyin.com,PROXY
+DOMAIN-KEYWORD,-core-c-hl,PROXY
+
+DOMAIN-KEYWORD,-normal-c-hl,PROXY
+
+DOMAIN-KEYWORD,search-quic-lq,PROXY
+DOMAIN-SUFFIX,snssdk.com,PROXY
+
+# 测速
+DOMAIN-SUFFIX,speed.ffq-test.com,PROXY
+# > Speedtest
+DOMAIN,cdn.ziffstatic.com,PROXY
+DOMAIN-KEYWORD,speedtest,PROXY
+DOMAIN-SUFFIX,cdnst.net,PROXY
+DOMAIN-SUFFIX,cellmaps.com,PROXY
+DOMAIN-SUFFIX,ekahau.cloud,PROXY
+DOMAIN-SUFFIX,ekahau.com,PROXY
+DOMAIN-SUFFIX,fast.com,PROXY
+DOMAIN-SUFFIX,ookla.com,PROXY
+DOMAIN-SUFFIX,ooklaserver.net,PROXY
+DOMAIN-SUFFIX,pingtest.net,PROXY
+
+DOMAIN-SUFFIX,speed.dler.io,PROXY
+DOMAIN-SUFFIX,webtest.net,PROXY
+
+# IPv6测试
+DOMAIN,ipv4.duiadns.net,PROXY
+DOMAIN,ipv4.excathedra.co,PROXY
+
+DOMAIN,ipv6.testipv6.de,PROXY
+DOMAIN-KEYWORD,ipv4-test,PROXY
+DOMAIN-KEYWORD,ipv4.test,PROXY
+DOMAIN-KEYWORD,ipv6-test,PROXY
+
+DOMAIN-SUFFIX,8n1.org,PROXY
+DOMAIN-SUFFIX,antradar.com,PROXY
+DOMAIN-SUFFIX,ipv6.br,PROXY
+DOMAIN-SUFFIX,jamieweb.net,PROXY
+DOMAIN-SUFFIX,joram.it,PROXY
+DOMAIN-SUFFIX,mudgee.host,PROXY
+DOMAIN-SUFFIX,nop.hu,PROXY
+DOMAIN-SUFFIX,nsx.de,PROXY
+DOMAIN-SUFFIX,stdio.be,PROXY
+DOMAIN-SUFFIX,steffann.nl,PROXY
+DOMAIN-SUFFIX,tunnelbroker.net,PROXY
+DOMAIN-SUFFIX,vyncke.org,PROXY
