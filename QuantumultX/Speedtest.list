@@ -7,7 +7,6 @@ HOST-KEYWORD,speedtest,PROXY
 HOST-SUFFIX,ooklaserver.net,PROXY
 HOST,cdn.cookielaw.org,PROXY
 HOST,geolocation.onetrust.com,PROXY
-HOST-SUFFIX,speed.cloudflare.com,PROXY
 HOST,cdn.jwplayer.com,PROXY
 HOST,fastly.jsdelivr.net,PROXY
 HOST-SUFFIX,speed.dler.io,PROXY
