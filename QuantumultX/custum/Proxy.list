@@ -22,6 +22,15 @@ DOMAIN-SUFFIX,yt.be, PROXY
 DOMAIN-SUFFIX,ytimg.com, PROXY
 IP-CIDR,74.125.0.0/16, PROXY
 IP-CIDR,173.194.0.0/16, PROXY
+# 内容：Hulu
+# 数量：7条
+DOMAIN-SUFFIX,cws-hulu.conviva.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
 # 内容：Porn
 # 数量：23条
 DOMAIN-KEYWORD,porn, proxy
