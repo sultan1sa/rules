@@ -1,5 +1,15 @@
 # OpenAI / ChatGPT
 # Google Gemini
+#yandex
+DOMAIN-SUFFIX,yastatic.net
+DOMAIN,avatars.mds.yandex.net
+DOMAIN,resize.yandex.net
+DOMAIN-SUFFIX,storage.yandexcloud.net
+DOMAIN,ysa-static.passport.yandex.net
+DOMAIN,avatars.dzeninfra.ru
+DOMAIN,s3.dzeninfra.ru
+DOMAIN,static.dzeninfra.ru
+DOMAIN,favicon.yandex.net
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
