@@ -30,7 +30,11 @@ DOMAIN,disk.yandex.com
 
 # > Microsoft
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
+HOST,api.githubcopilot.com
+HOST,copilot-proxy.githubusercontent.com
+HOST,copilot.microsoft.com
+HOST,sydney.bing.com
+HOST,www.bing.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
