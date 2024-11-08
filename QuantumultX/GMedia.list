@@ -106,9 +106,7 @@ HOST,content.jwplatform.com,PROXY
 HOST,videos-f.jwpsrv.com,PROXY
 
 # > F1 TV
-HOST,d2n9h2wits23hf.cloudfront.net,PROXY
 HOST,f1prodlive.akamaized.net,PROXY
-HOST,mobile-collector.newrelic.com,PROXY
 HOST-SUFFIX,bitmovin.com,PROXY
 HOST-SUFFIX,f1esports.com,PROXY
 HOST-SUFFIX,f1manager.com,PROXY
@@ -144,8 +142,6 @@ HOST-SUFFIX,hbonow.com,PROXY
 HOST-SUFFIX,maxgo.com,PROXY
 HOST,hbolb.onwardsmg.com,PROXY
 HOST,hbounify-prod.evergent.com,PROXY
-HOST,dai3fd1oh325y.cloudfront.net,PROXY
-HOST,execute-api.ap-southeast-1.amazonaws.com,PROXY
 
 # > Hulu(フールー)
 HOST-SUFFIX,happyon.jp,PROXY
@@ -199,7 +195,6 @@ HOST,kktv-theater.kk.stream,PROXY
 
 # > Line TV
 USER-AGENT,LINE*,PROXY
-HOST-SUFFIX,d3c7rimkq79yfu.cloudfront.net,PROXY
 HOST-SUFFIX,linetv.tw,PROXY
 HOST-SUFFIX,profile.line-scdn.net,PROXY
 
@@ -259,12 +254,9 @@ HOST-SUFFIX,soundcloudmail.com,PROXY
 # > ViuTV
 USER-AGENT,ViuTV*,PROXY
 HOST-SUFFIX,bootstrapcdn.com,PROXY
-HOST-SUFFIX,cloudfront.net,PROXY
-HOST-SUFFIX,cognito-identity.us-east-1.amazonaws.com,PROXY
 HOST-SUFFIX,firebaseio.com,PROXY
 HOST-SUFFIX,jwpcdn.com,PROXY
 HOST-SUFFIX,jwplayer.com,PROXY
-HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,PROXY
 HOST-SUFFIX,nowe.com,PROXY
 HOST-SUFFIX,viu.com,PROXY
 HOST-SUFFIX,viu.tv,PROXY
