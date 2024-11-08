@@ -1,9 +1,7 @@
 # = Apple
 # > Apple Websites
 host-suffix,aaplimg.com,DIRECT
-host-suffix,apple.co,DIRECT
 host-suffix,apple.com,DIRECT
-host-suffix,apple.com.cn,DIRECT
 host-wildcard,apple.*,DIRECT
 host-wildcard,apple.com.*,DIRECT
 host-suffix,itunes.com,DIRECT
@@ -31,50 +29,47 @@ ip-cidr,198.183.17.0/24,DIRECT
 ip-cidr,205.180.175.0/24,DIRECT
 
 # > Apple Stores
-host,apps.apple.com,DIRECT
-host,iosapps.itunes.apple.com,DIRECT
-host,osxapps.itunes.apple.com,DIRECT
-host-suffix,appsto.re,DIRECT
-host-suffix,mzstatic.com,DIRECT
+host,apps.apple.com,PROXY
+host,iosapps.itunes.apple.com,PROXY
+host,osxapps.itunes.apple.com,PROXY
+host-suffix,appsto.re,PROXY
+host-suffix,mzstatic.com,PROXY
 
 # > Apple Developer
-host-wildcard,appleworldwidedeveloper.*.net,DIRECT
-host-suffix,adcdownload.apple.com,DIRECT
-host-suffix,developer.apple.com,DIRECT
+host-wildcard,appleworldwidedeveloper.*.net,PROXY
+host-suffix,adcdownload.apple.com,PROXY
+host-suffix,developer.apple.com,PROXY
 
 # > Beats
 
 
 # > iCloud
-host-keyword,icloud,DIRECT
-host-keyword,icoudo,DIRECT
-host-keyword,icoudos,DIRECT
-host-suffix,applemx-icloud.com,DIRECT
-host-suffix,appleicloud.cn,DIRECT
-host-suffix,apple-icloud.cn,DIRECT
-host-suffix,icloud-content.com,DIRECT
-host-suffix,icloud-content.com.cn,DIRECT
-host-suffix,icloud-isupport.com,DIRECT
-host-suffix,icloudads.net,DIRECT
-host-suffix,icloudbox.net,DIRECT
-host-suffix,icloudbrowser.net,DIRECT
-host-suffix,icloude.com,DIRECT
-host-suffix,icloudmusic.net,DIRECT
-host-suffix,icloudmail.net,DIRECT
-host-suffix,icloudnet.net,DIRECT
-host-suffix,icloudpay.net,DIRECT
-host-suffix,icloudsecure.net,DIRECT
-host-suffix,myicloud.net,DIRECT
-host-suffix,mail.me.com.akadns.net,DIRECT
-host-suffix,www-cdn.icloud.com.akadns.net,DIRECT
-host-suffix,icloud-sandbox.com,DIRECT
-host-suffix,icloud.com.cn,DIRECT
-host-suffix,icloud.net.cn,DIRECT
-host-wildcard,*-content.icloud.com.cn,DIRECT
+host-keyword,icloud,PROXY
+host-suffix,applemx-icloud.com,PROXY
+host-suffix,appleicloud.cn,PROXY
+host-suffix,apple-icloud.cn,PROXY
+host-suffix,icloud-content.com,PROXY
+host-suffix,icloud-isupport.com,PROXY
+host-suffix,icloudads.net,PROXY
+host-suffix,icloudbox.net,PROXY
+host-suffix,icloudbrowser.net,PROXY
+host-suffix,icloude.com,PROXY
+host-suffix,icloudmusic.net,PROXY
+host-suffix,icloudmail.net,PROXY
+host-suffix,icloudnet.net,PROXY
+host-suffix,icloudpay.net,PROXY
+host-suffix,icloudsecure.net,PROXY
+host-suffix,myicloud.net,PROXY
+host-suffix,mail.me.com.akadns.net,PROXY
+host-suffix,www-cdn.icloud.com.akadns.net,PROXY
+host-suffix,icloud-sandbox.com,PROXY
+host-suffix,icloud.com.cn,PROXY
+host-suffix,icloud.net.cn,PROXY
+host-wildcard,*-content.icloud.com.cn,PROXY
 
 # > Apple APIs
 # >> Location Service
-host-suffix,ls.apple.com,DIRECT
+host-suffix,ls.apple.com,PROXY
 # >> Push Service
 host,init-p01md.apple.com,DIRECT
 host-wildcard,init*.push.apple.com,DIRECT
@@ -83,7 +78,7 @@ host-suffix,courier-push-apple.com.akadns.net,DIRECT
 host-suffix,push.apple.com,DIRECT
 
 # >> Other Service
-HOST,amp-api.apps.apple.com,DIRECT
+HOST,amp-api.apps.apple.com,PROXY
 host,api.smoot.apple.cn,PROXY
 host-suffix,safebrowsing.apple,PROXY
 
@@ -107,8 +102,8 @@ host-suffix,apple-livephotoskit.com,DIRECT
 
 # > Apple Resources Server
 host,testflight.apple.com,PROXY
-host-suffix,appldnld.apple.com,DIRECT
-host-suffix,secure-appldnld.apple.com,DIRECT
+host-suffix,appldnld.apple.com,PROXY
+host-suffix,secure-appldnld.apple.com,PROXY
 host-suffix,itunesu.assets.itunes.com,PROXY
 
 # > Apple CDNs
