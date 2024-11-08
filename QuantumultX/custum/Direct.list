@@ -1,5 +1,6 @@
 #keyword
 HOST-KEYWORD,dropbox
+HOST-KEYWORD,TIKTOK
 HOST-KEYWORD,github
 HOST-KEYWORD,gmail
 HOST-KEYWORD,instagram
@@ -146,15 +147,10 @@ host-suffix, gitlab.io, DIRECT
 host-suffix, gitlab.com, DIRECT
 host-suffix, gitlab.net, DIRECT
 
-# > Cloudflare
-host-suffix, warp.plus, DIRECT
-host-suffix, cloudflare.com, DIRECT
-host-suffix, cloudflare.net, DIRECT
-host-suffix, cloudflareclient.com, DIRECT
+
 
 # > Signal
 host-suffix, signal.org, DIRECT
-host-suffix, hcaptcha.com, DIRECT
 host-suffix, signalcaptchas.org, DIRECT
 
 # > Tutanota
@@ -177,7 +173,7 @@ host-suffix, yahoo.com, DIRECT
 HOST-KEYWORD, mail, DIRECT
 
 # TikTok
-DOMAIN-KEYWORD,-tiktokcdn-com
+DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ipstatp.com
@@ -186,7 +182,6 @@ DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.co
 
 # YouTubeMusic
 USER-AGENT,*YouTubeMusic*
@@ -198,7 +193,6 @@ DOMAIN,music.youtube.com
 # 内容：Facebook
 # 数量：21条
 DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,fbcdn
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
@@ -225,16 +219,13 @@ DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
@@ -279,7 +270,6 @@ DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
 
 # Amazon
-DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 IP-CIDR,13.32.0.0/15,no-resolve
