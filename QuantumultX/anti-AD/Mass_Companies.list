@@ -43,7 +43,6 @@ DOMAIN-SUFFIX,googletagmanager.com,REJECT
 DOMAIN-SUFFIX,googletagservices.com,REJECT
 DOMAIN,mtalk.google.com,REJECT
 DOMAIN,suggestqueries.google.com,REJECT
-AND, ((OR,((DOMAIN-SUFFIX,gvt0.com),(DOMAIN-SUFFIX,gvt2.com),(DOMAIN-SUFFIX,gvt3.com))),(DOMAIN-KEYWORD,beacon)),REJECT
 
 // Mi
 DOMAIN-SUFFIX,tracking.miui.com,REJECT
@@ -62,9 +61,7 @@ DOMAIN-SUFFIX,rqd.qq.com,REJECT
 DOMAIN,3gimg.qq.com,REJECT
 DOMAIN,fusion.qq.com,REJECT
 DOMAIN,weixinbridge.com,REJECT
-AND,((DOMAIN-KEYWORD,splash), (DOMAIN-KEYWORD,gtimg)),REJECT
 DOMAIN-KEYWORD,wxsnsdy,REJECT
-AND, ((DOMAIN-SUFFIX,msa.cdn.mediaset.net), (DOMAIN-KEYWORD,adv0)),REJECT
 
 // Twitter
 DOMAIN-SUFFIX,ads.twitter.com,REJECT
