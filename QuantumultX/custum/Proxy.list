@@ -33,6 +33,14 @@ DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN,disk.yandex.com
 
+# > Microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,skype.com
+
+
 # 内容：Hulu
 # 数量：7条
 DOMAIN-SUFFIX,cws-hulu.conviva.com
