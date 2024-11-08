@@ -1,6 +1,6 @@
 # 内容：Google
 # 数量：24条
-DOMAIN-KEYWORD,gmail, PROXY
+HOST,voice.telephony.goog,PROXY
 DOMAIN-KEYWORD,google, PROXY
 DOMAIN-SUFFIX,1e100.net, PROXY
 DOMAIN-SUFFIX,2mdn.net, PROXY
