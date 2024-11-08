@@ -1,19 +1,7 @@
 # aggregated Apple Music Disney+ Netflix Spotify YouTube into one 
 # 可取消配置文件 filter remove 各自 rules 前的注释实现分开使用 force policy 
 
-# > Apple Music
-USER-AGENT,Music*,PROXY
-HOST-SUFFIX,applemusic.com,PROXY
 
-HOST-SUFFIX,music.apple.com,PROXY
-HOST,aod.itunes.apple.com,PROXY
-HOST,aod-ssl.itunes.apple.com,PROXY
-HOST,audio.itunes.apple.com,PROXY
-HOST,audio-ssl.itunes.apple.com,PROXY
-HOST,mvod.itunes.apple.com,PROXY
-HOST,streamingaudio.itunes.apple.com,PROXY
-# > iCloud Music Library
-HOST-SUFFIX,blobstore.apple.com,PROXY
 
 # > Disney Plus
 USER-AGENT,Disney*,PROXY
@@ -52,7 +40,7 @@ HOST-SUFFIX,tospotify.com,DIRECT
 HOST-SUFFIX,sonostime.pool.ntp.org,DIRECT
 HOST,braze-images.com,PROXY
 HOST,sonos-music.apple.com,PROXY
-HOST,sali.sonos.radio,Spotify
+HOST,sali.sonos.radio,PROXY
 HOST,oauth.ws.sonos.com,PROXY
 HOST,dcapps.ws.sonos.com,PROXY
 HOST,voiceconfig.ws.sonos.com,PROXY
@@ -63,28 +51,12 @@ HOST-SUFFIX,sonos.com,PROXY
 HOST-SUFFIX,urbanairship.com,DIRECT
 
 
-# > Youtube Music
-USER-AGENT,*YouTubeMusic*,DIRECT
-USER-AGENT,*com.google.ios.youtubemusic*,DIRECT
+
 
 # > YouTube 
-USER-AGENT,*youtube*,PROXY
-USER-AGENT,YouTube*,PROXY
-HOST-WILDCARD,youtube.*,PROXY
-HOST-WILDCARD,youtube.*.*,PROXY
-HOST-WILDCARD,youtube.com.*,PROXY
-HOST-SUFFIX,googlevideo.com,PROXY
-HOST-SUFFIX,gvt1.com,PROXY
-HOST-SUFFIX,video.google.com,PROXY
-HOST-SUFFIX,youtu.be,PROXY
-HOST-SUFFIX,youtube.com,PROXY
-HOST-SUFFIX,youtube.googleapis.com,PROXY
-HOST-SUFFIX,youtubeeducation.com,PROXY
-HOST-SUFFIX,youtubeembeddedplayer.googleapis.com,PROXY
-HOST-SUFFIX,youtubei.googleapis.com,PROXY
-HOST-SUFFIX,youtubekids.com,PROXY
-HOST-SUFFIX,youtube-nocookie.com,PROXY
-HOST-SUFFIX,youtube-ui.l.google.com,PROXY
-HOST-SUFFIX,yt.be,PROXY
-HOST-SUFFIX,yt3.ggpht.com,PROXY
-HOST-SUFFIX,ytimg.com,PROXY
+HOST-SUFFIX,ggpht.com
+HOST-SUFFIX,l.google.com
+HOST,ytimg.com
+HOST,img.youtube.com
+HOST,i.ytimg.com
+HOST,youtubei.googleapis.com
