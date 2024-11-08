@@ -1,7 +1,42 @@
 # aggregated Apple Music Disney+ Netflix Spotify YouTube into one 
 # 可取消配置文件 filter remove 各自 rules 前的注释实现分开使用 force policy 
 
+# 内容：Hulu
+# 数量：7条
+DOMAIN-SUFFIX,cws-hulu.conviva.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
 
+
+# 内容：Porn
+# 数量：23条
+DOMAIN-KEYWORD,porn, proxy
+DOMAIN-SUFFIX,8teenxxx.com,PROXY
+DOMAIN-SUFFIX,ahcdn.com,PROXY
+DOMAIN-SUFFIX,bcvcdn.com,PROXY
+DOMAIN-SUFFIX,bongacams.com,PROXY
+DOMAIN-SUFFIX,chaturbate.com,PROXY
+DOMAIN-SUFFIX,dditscdn.com,PROXY
+DOMAIN-SUFFIX,livejasmin.com,PROXY
+DOMAIN-SUFFIX,phncdn.com,PROXY
+DOMAIN-SUFFIX,phprcdn.com,PROXY
+DOMAIN-SUFFIX,pornhub.com,PROXY
+DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+DOMAIN-SUFFIX,rdtcdn.com, proxy
+DOMAIN-SUFFIX,redtube.com, proxy
+DOMAIN-SUFFIX,sb-cd.com, proxy
+DOMAIN-SUFFIX,spankbang.com, proxy
+DOMAIN-SUFFIX,t66y.com, proxy
+DOMAIN-SUFFIX,xhamster.com, proxy
+DOMAIN-SUFFIX,xnxx-cdn.com, proxy
+DOMAIN-SUFFIX,xnxx.com, proxy
+DOMAIN-SUFFIX,xvideos-cdn.com, proxy
+DOMAIN-SUFFIX,xvideos.com, proxy
+DOMAIN-SUFFIX,ypncdn.com, proxy
 
 # > Disney Plus
 USER-AGENT,Disney*,PROXY
