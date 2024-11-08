@@ -45,14 +45,14 @@ host-suffix, gitlab.com, DIRECT
 host-suffix, gitlab.net, DIRECT
 
 # > Cloudflare
-host-suffix, warp.plus, DIRECT
-host-suffix, cloudflare.com, DIRECT
-host-suffix, cloudflare.net, DIRECT
-host-suffix, cloudflareclient.com, DIRECT
+host-suffix, warp.plus, PROXY
+host-suffix, cloudflare.com, PROXY
+host-suffix, cloudflare.net, PROXY
+host-suffix, cloudflareclient.com, PROXY
 
 # > Signal
 host-suffix, signal.org, DIRECT
-host-suffix, hcaptcha.com, DIRECT
+host-suffix, hcaptcha.com, PROXY
 host-suffix, signalcaptchas.org, DIRECT
 
 # > Tutanota
