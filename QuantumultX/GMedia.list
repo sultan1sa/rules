@@ -15,47 +15,9 @@ HOST,ippondemoninjin.livedoor.blog,PROXY
 
 HOST,epg.aptv.app,PROXY
 
-# > FireTV 4k Max stick 
-HOST,msh.amazon.com,PROXY
-HOST,msh.amazon.co.uk,PROXY
-HOST,prod.amazoncrl.com,PROXY
-HOST,api.amazonalexa.com,PROXY
-HOST,2.android.pool.ntp.org,PROXY
-HOST,ftv-smp.ntp-fireos.com,PROXY
-HOST,fireoscaptiveportal.com,PROXY
-HOST,firetvcaptiveportal.com,PROXY
-HOST-SUFFIX,service.amazonsilk.com,PROXY
-HOST-SUFFIX,prime-video.amazon.dev,PROXY
-HOST-SUFFIX,imdbtv.amazon.dev,PROXY
-HOST-SUFFIX,imdbtv-services.amazon.dev,PROXY
-HOST-SUFFIX,digital.amazon.dev,PROXY
-HOST-SUFFIX,diagnostic.networking.aws.dev,PROXY
-HOST-SUFFIX,prod.service.minerva.devices.a2z.com,PROXY
-HOST-SUFFIX,cloudfront.prod.ota-cloudfront.net,PROXY
-HOST-SUFFIX,api.discomax.com,PROXY
-HOST-SUFFIX,amazonfirenews.wurl.tv,PROXY
-HOST-SUFFIX,mediatailor.us-east-1.amazonaws.com,PROXY
-HOST-SUFFIX,associates-amazon.com,PROXY
-HOST-SUFFIX,backblazeb2.com,PROXY
-HOST-SUFFIX,ssl-images-amazon.com,PROXY
-HOST-SUFFIX,prod.gamehub.amazon.dev,PROXY
-HOST,wl.amazon-dss.com,PROXY
-HOST,aviary.amazon.com,PROXY
-HOST,avs-alexa-18-na.amazon.com,PROXY
-HOST,estrellanews-amazon.amagi.tv,PROXY
-HOST,aca-livecards-service.amazon.com,PROXY
-HOST,firetv-news-content-ingestion.amazon.com,PROXY
 
-HOST,arcus-uswest.amazon.com,PROXY
-HOST,dp-gw-na.amazon.com,PROXY
-HOST,mas-ext.amazon.com,PROXY
-HOST,ocsp.rootca1.amazontrust.com,PROXY
-HOST,ocsp.r2m02.amazontrust.com,PROXY
-HOST,preprod.amazoncrl.com,PROXY
-HOST,cdn-ue1-prod.tsv2.amagi.tv,PROXY
-HOST,keyboard.amazonfiretvapp.com,PROXY
-HOST,connect.keyboard-na.amazonfiretvapp.com,PROXY
-HOST-SUFFIX,amagi.tv,PROXY
+
+
 
 # > ABC
 HOST-SUFFIX,edgedatg.com,PROXY
@@ -69,42 +31,7 @@ HOST-SUFFIX,ameba.jp,PROXY
 HOST-SUFFIX,hayabusa.io,PROXY
 HOST-KEYWORD,abematv.akamaized.net,PROXY
 
-# > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,PROXY
-USER-AGENT,Prime%20Video*,PROXY
-HOST-KEYWORD,avoddashs,PROXY
-HOST-SUFFIX,aiv-cdn.net,PROXY
-HOST-SUFFIX,aiv-delivery.net,PROXY
-HOST-SUFFIX,amazonprimevideos.com,PROXY
-HOST-SUFFIX,amazonvideo.cc,PROXY
-HOST-SUFFIX,amazonvideo.com,PROXY
-HOST-SUFFIX,amazonvideodirect.cc,PROXY
-HOST-SUFFIX,atv-ext.amazon.com,PROXY
-HOST-SUFFIX,atv-ext-eu.amazon.com,PROXY
-HOST-SUFFIX,atv-ext-fe.amazon.com,PROXY
-HOST-SUFFIX,atv-ps.amazon.com,PROXY
-HOST-SUFFIX,atv-ps-eu.amazon.co.uk,PROXY
-HOST-SUFFIX,atv-ps-eu.amazon.com,PROXY
-HOST-SUFFIX,atv-ps-fe.amazon.co.jp,PROXY
-HOST-SUFFIX,atv-ps-fe.amazon.com,PROXY
-HOST-SUFFIX,fls-na.amazon.com,PROXY
-HOST-SUFFIX,media-amazon.com,PROXY
-HOST-SUFFIX,primevideo.cc,PROXY
-HOST-SUFFIX,primevideo.com,PROXY
-HOST-SUFFIX,prime-video.com,PROXY
-HOST-SUFFIX,primevideo.info,PROXY
-HOST-SUFFIX,primevideo.org,PROXY
-HOST-SUFFIX,primevideo.tv,PROXY
-HOST-SUFFIX,pv-cdn.net,PROXY
-HOST-SUFFIX,video.a2z.com,PROXY
-HOST-SUFFIX,elb.amazonaws.com,PROXY
-HOST,avodmp4s3ww-a.akamaihd.net,PROXY
-HOST,d1v5ir2lpwr8os.cloudfront.net,PROXY
-HOST,d1y002tclu9djj.cloudfront.net,PROXY
-HOST,d22qjgkvxw22r6.cloudfront.net,PROXY
-HOST,d25xi40x97liuc.cloudfront.net,PROXY
-HOST,dmqdd6hw24ucf.cloudfront.net,PROXY
-HOST,d27xxe7juh1us6.cloudfront.net,PROXY
+
 
 
 # > Apple TV
@@ -343,13 +270,9 @@ HOST-SUFFIX,viu.com,PROXY
 HOST-SUFFIX,viu.tv,PROXY
 HOST-SUFFIX,viu.now.com,PROXY
 
-# > Youtube Music
-;USER-AGENT,*YouTubeMusic*,DIRECT
-;USER-AGENT,*com.google.ios.youtubemusic*,DIRECT
 
 # > YouTube
-;USER-AGENT,*youtube*,PROXY
-;USER-AGENT,YouTube*,PROXY
+
 ;HOST-WILDCARD,youtube.*,PROXY
 ;HOST-WILDCARD,youtube.*.*,PROXY
 ;HOST-WILDCARD,youtube.com.*,PROXY
