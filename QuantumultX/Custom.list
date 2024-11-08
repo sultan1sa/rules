@@ -115,7 +115,15 @@ host-suffix, yahoo.com, PROXY
 
 # > DuckDuckGo
 host-suffix, duckduckgo.com, proxy
-
+DOMAIN-SUFFIX,yastatic.net, proxy
+DOMAIN,avatars.mds.yandex.net, proxy
+DOMAIN,resize.yandex.net, proxy
+DOMAIN-SUFFIX,storage.yandexcloud.net, proxy
+DOMAIN,ysa-static.passport.yandex.net, proxy
+DOMAIN,avatars.dzeninfra.ru, proxy
+DOMAIN,s3.dzeninfra.ru, proxy
+DOMAIN,static.dzeninfra.ru, proxy
+DOMAIN,favicon.yandex.net, proxy
 # > 代理工具
 
 host-keyword, nsloon, PROXY
