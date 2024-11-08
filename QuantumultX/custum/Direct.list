@@ -16,6 +16,8 @@ IP-CIDR,173.192.231.32/27,no-resolve
 IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
+
+
 # 内容：Telegram
 # 数量：13条
 DOMAIN-KEYWORD,telegram
@@ -25,12 +27,36 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telesco.pe
-IP-CIDR,91.108.0.0/16,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,91.108.12.0/22,no-resolve
+IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.20.0/22,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/48,no-resolve
+IP-CIDR6,2a0a:f280::/32,no-resolve
+
+# > DigiCert
+DOMAIN,cacerts.digicert.com
+DOMAIN,crl3.digicert.com
+DOMAIN,crl4.digicert.com
+DOMAIN,ocsp.digicert.com
+
+
+# > Others
+DOMAIN-SUFFIX,inkbunny.net
+DOMAIN-SUFFIX,metapix.net
+DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN,international-gfe.download.nvidia.com
+
+
 # 内容：Github
 # 数量：6条
 DOMAIN-KEYWORD,github
@@ -182,6 +208,11 @@ DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 #DOMAIN-SUFFIX,aria.microsoft.com
+
+# > Dropbox
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
 
 
 # Instagram
