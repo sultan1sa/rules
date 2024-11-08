@@ -17,6 +17,14 @@ IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
 
+#SNAPCHAT
+HOST-SUFFIX,sc-cdn.net,DIRECT
+HOST-SUFFIX,snap-dev.net,DIRECT
+HOST-SUFFIX,snap.com,DIRECT
+HOST-SUFFIX,snapads.com,DIRECT
+HOST-SUFFIX,snapchat.com,DIRECT
+HOST-SUFFIX,snapkit.co,DIRECT
+
 
 # 内容：Telegram
 # 数量：13条
