@@ -3,7 +3,6 @@ HOST-KEYWORD,dropbox
 HOST-KEYWORD,github
 HOST-KEYWORD,gmail
 HOST-KEYWORD,instagram
-HOST-KEYWORD,spotify
 HOST-KEYWORD,telegram
 HOST-KEYWORD,twitter
 HOST-KEYWORD,whatsapp
@@ -73,7 +72,6 @@ DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,international-gfe.download.nvidia.com
 
-
 # > GitHub
 host-suffix, github.blog, DIRECT
 host-suffix, github.com, DIRECT
@@ -108,7 +106,6 @@ host-suffix, tutanota.com, DIRECT
 # > Deepl
 host-suffix, deepl.com, DIRECT
 
-
 # > Mail
 host, s.uicdn.com, DIRECT
 host, cdn.cookielaw.org, DIRECT
@@ -118,12 +115,6 @@ host-suffix, ui-portal.de, DIRECT
 # > Yahoo
 host-suffix, oath.com, DIRECT
 host-suffix, yahoo.com, DIRECT
-
-
-
-
-
-# > 其他
 HOST-KEYWORD, mail, DIRECT
 
 # TikTok
@@ -168,6 +159,7 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
+
 # 内容：Apple
 # 数量：27条
 DOMAIN,apple.comscoreresearch.com
@@ -197,6 +189,7 @@ IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
+
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
@@ -279,7 +272,7 @@ DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
-
+DOMAIN-SUFFIX,threads.net
 
 # 内容：Twitter
 # 数量：11条
