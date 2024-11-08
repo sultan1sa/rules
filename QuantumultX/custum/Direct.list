@@ -59,9 +59,9 @@ IP-CIDR,208.43.122.128/27,no-resolve
 HOST-SUFFIX,sc-cdn.net,DIRECT
 HOST-SUFFIX,snap-dev.net,DIRECT
 HOST-SUFFIX,snap.com,DIRECT
-HOST-SUFFIX,snapads.com,DIRECT
 HOST-SUFFIX,snapchat.com,DIRECT
 HOST-SUFFIX,snapkit.co,DIRECT
+
 
 
 # 内容：Telegram
