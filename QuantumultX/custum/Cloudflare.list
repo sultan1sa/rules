@@ -1,84 +1,83 @@
 # > Cloudflare
-# > Gmail
-host-keyword,gmail,DIRECT
 
 # > Google Recaptcha
-host-keyword,recaptcha,DIRECT
+host-keyword,recaptcha,PROXY
+HOST-SUFFIX,captcha.com, PROXY
 # >> Main Domain
-host-suffix,cloudflare.com,DIRECT
-host-suffix,cloudflare.net,DIRECT
-host-suffix,cloudflare.tv,DIRECT
-host-suffix,cloudflare-quic.com,DIRECT
-host-suffix,cloudflareaccess.com,DIRECT
-host-suffix,cloudflareapps.com,DIRECT
-host-suffix,cloudflarebolt.com,DIRECT
-host-suffix,cloudflareclient.com,DIRECT
-host-suffix,cloudflareinsights.com,DIRECT
-host-suffix,cloudflareok.com,DIRECT
-host-suffix,cloudflarepreview.com,DIRECT
-host-suffix,cloudflareresolve.com,DIRECT
-host-suffix,cloudflaressl.com,DIRECT
-host-suffix,cloudflarestatus.com,DIRECT
-host-suffix,cloudflarestorage.com,DIRECT
-host-suffix,cloudflarestream.com,DIRECT
-host-suffix,cloudflaretest.com,DIRECT
-host-suffix,pacloudflare.com,DIRECT
-host-suffix,trycloudflare.com,DIRECT
-host-suffix,videodelivery.net,DIRECT
+host-suffix,cloudflare.com,PROXY
+host-suffix,cloudflare.net,PROXY
+host-suffix,cloudflare.tv,PROXY
+host-suffix,cloudflare-quic.com,PROXY
+host-suffix,cloudflareaccess.com,PROXY
+host-suffix,cloudflareapps.com,PROXY
+host-suffix,cloudflarebolt.com,PROXY
+host-suffix,cloudflareclient.com,PROXY
+host-suffix,cloudflareinsights.com,PROXY
+host-suffix,cloudflareok.com,PROXY
+host-suffix,cloudflarepreview.com,PROXY
+host-suffix,cloudflareresolve.com,PROXY
+host-suffix,cloudflaressl.com,PROXY
+host-suffix,cloudflarestatus.com,PROXY
+host-suffix,cloudflarestorage.com,PROXY
+host-suffix,cloudflarestream.com,PROXY
+host-suffix,cloudflaretest.com,PROXY
+host-suffix,pacloudflare.com,PROXY
+host-suffix,trycloudflare.com,PROXY
+host-suffix,videodelivery.net,PROXY
 
 # >> DNS & WARP
-host-suffix,warp.plus,DIRECT
-host-suffix,cloudflarewarp.com,DIRECT
-host-suffix,cloudflare-dns.com,DIRECT
-host-suffix,one.one.one,DIRECT
-host-suffix,every1dns.net,DIRECT
+host-suffix,warp.plus,PROXY
+host-suffix,cloudflarewarp.com,PROXY
+host-suffix,cloudflare-dns.com,PROXY
+host-suffix,one.one.one,PROXY
+host-suffix,every1dns.net,PROXY
 
 # >> Pages
-host-suffix,pages.dev,DIRECT
+host-suffix,pages.dev,PROXY
 
 # >> Workers
-host-suffix,workers.dev,DIRECT
+host-suffix,workers.dev,PROXY
 
 # >> IPFS
-host-suffix,cf-ipfs.com,DIRECT
-host-suffix,cloudflare-ipfs.com,DIRECT
+host-suffix,cf-ipfs.com,PROXY
+host-suffix,cloudflare-ipfs.com,PROXY
 
 # >> CN Part
-host-suffix,cf-ns.com,DIRECT Domestic
-host-suffix,cf-ns.net,DIRECT Domestic
-host-suffix,cf-ns.site,DIRECT Domestic
-host-suffix,cf-ns.tech,DIRECT Domestic
-host-suffix,cftest5.cn,DIRECT Domestic
-host-suffix,cftest6.cn,DIRECT Domestic
-host-suffix,cftest7.com,DIRECT Domestic
-host-suffix,cftest8.com,DIRECT Domestic
-host-suffix,cloudflare-cn.com,DIRECT Domestic
-host-suffix,cloudflarecn.net,DIRECT Domestic
-host-suffix,cloudflareinsights-cn.com,DIRECT Domestic
-host-suffix,cloudflareprod.com,DIRECT Domestic
-host-suffix,cloudflarestaging.com,DIRECT Domestic
-host-suffix,cloudflarestoragegw.com,DIRECT Domestic
+host-suffix,cf-ns.com,PROXY
+host-suffix,cf-ns.net,PROXY
+host-suffix,cf-ns.site,PROXY
+host-suffix,cf-ns.tech,PROXY
+host-suffix,cftest5.cn,PROXY
+host-suffix,cftest6.cn,PROXY
+host-suffix,cftest7.com,PROXY
+host-suffix,cftest8.com,PROXY
+host-suffix,cloudflare-cn.com,PROXY
+host-suffix,cloudflarecn.net,PROXY
+host-suffix,cloudflareinsights-cn.com,PROXY
+host-suffix,cloudflareprod.com,PROXY
+host-suffix,cloudflarestaging.com,PROXY
+host-suffix,cloudflarestoragegw.com,PROXY
 
 # >> Cloudflare IP-CIDR
-ip-cidr,103.21.244.0/22,DIRECT
-ip-cidr,103.22.200.0/22,DIRECT
-ip-cidr,103.31.4.0/22,DIRECT
-ip-cidr,104.16.0.0/13,DIRECT
-ip-cidr,104.24.0.0/14,DIRECT
-ip-cidr,108.162.192.0/18,DIRECT
-ip-cidr,131.0.72.0/22,DIRECT
-ip-cidr,141.101.64.0/18,DIRECT
-ip-cidr,162.158.0.0/15,DIRECT
-ip-cidr,172.64.0.0/13,DIRECT
-ip-cidr,173.245.48.0/20,DIRECT
-ip-cidr,188.114.96.0/20,DIRECT
-ip-cidr,190.93.240.0/20,DIRECT
-ip-cidr,197.234.240.0/22,DIRECT
-ip-cidr,198.41.128.0/17,DIRECT
-ip6-cidr,2400:cb00::/32,DIRECT
-ip6-cidr,2606:4700::/32,DIRECT
-ip6-cidr,2803:f800::/32,DIRECT
-ip6-cidr,2405:b500::/32,DIRECT
-ip6-cidr,2405:8100::/32,DIRECT
-ip6-cidr,2a06:98c0::/29,DIRECT
-ip6-cidr,2c0f:f248::/32,DIRECT
+ip-cidr,103.21.244.0/22,PROXY
+ip-cidr,103.22.200.0/22,PROXY
+ip-cidr,103.31.4.0/22,PROXY
+ip-cidr,104.16.0.0/13,PROXY
+ip-cidr,104.24.0.0/14,PROXY
+ip-cidr,108.162.192.0/18,PROXY
+ip-cidr,131.0.72.0/22,PROXY
+ip-cidr,141.101.64.0/18,PROXY
+ip-cidr,162.158.0.0/15,PROXY
+ip-cidr,172.64.0.0/13,PROXY
+ip-cidr,173.245.48.0/20,PROXY
+ip-cidr,188.114.96.0/20,PROXY
+ip-cidr,190.93.240.0/20,PROXY
+ip-cidr,197.234.240.0/22,PROXY
+ip-cidr,198.41.128.0/17,PROXY
+ip6-cidr,2400:cb00::/32,PROXY
+ip6-cidr,2606:4700::/32,PROXY
+ip6-cidr,2803:f800::/32,PROXY
+ip6-cidr,2405:b500::/32,PROXY
+ip6-cidr,2405:8100::/32,PROXY
+ip6-cidr,2a06:98c0::/29,PROXY
+ip6-cidr,2c0f:f248::/32,PROXY
