@@ -101,6 +101,36 @@ DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,international-gfe.download.nvidia.com
 
+; tiktok
+HOST,lf16-effectcdn.byteeffecttos-g.com
+HOST,lf16-pkgcdn.pitaya-clientai.com
+HOST,p16-tiktokcdn-com.akamaized.net
+HOST-SUFFIX,bytedapm.com
+HOST-SUFFIX,bytegecko-i18n.com
+HOST-SUFFIX,byteoversea.com
+HOST-SUFFIX,capcut.com
+HOST-SUFFIX,ibytedtos.com
+HOST-SUFFIX,ibyteimg.com
+HOST-SUFFIX,ipstatp.com
+HOST-SUFFIX,isnssdk.com
+HOST-SUFFIX,muscdn.com
+HOST-SUFFIX,musical.ly
+HOST-SUFFIX,sgpstatp.com
+HOST-SUFFIX,snssdk.com
+HOST-SUFFIX,tik-tokapi.com
+HOST-SUFFIX,tiktok.com
+HOST-SUFFIX,tiktokcdn-us.com
+HOST-SUFFIX,tiktokcdn.com
+HOST-SUFFIX,tiktokd.net
+HOST-SUFFIX,tiktokd.org
+HOST-SUFFIX,tiktokmusic.app
+HOST-SUFFIX,tiktokv.com
+HOST-SUFFIX,tiktokv.us
+HOST-SUFFIX,ttwebview.com
+HOST-KEYWORD,musical.ly
+HOST-KEYWORD,tiktok
+USER-AGENT,tiktok*
+
 # > GitHub
 host-suffix, github.blog, DIRECT
 host-suffix, github.com, DIRECT
