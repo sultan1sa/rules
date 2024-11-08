@@ -22,6 +22,17 @@ DOMAIN-SUFFIX,yt.be, PROXY
 DOMAIN-SUFFIX,ytimg.com, PROXY
 IP-CIDR,74.125.0.0/16, PROXY
 IP-CIDR,173.194.0.0/16, PROXY
+
+# > Yahoo
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN,search.yahoo.co.jp
+
+# > Yandex
+DOMAIN-SUFFIX,yadi.sk
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN,disk.yandex.com
+
 # 内容：Hulu
 # 数量：7条
 DOMAIN-SUFFIX,cws-hulu.conviva.com
