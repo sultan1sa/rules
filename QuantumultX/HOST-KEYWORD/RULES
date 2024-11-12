@@ -1,30 +1,30 @@
 # > Microsoft
-host, assets1.xboxlive.com, proxy
-host, assets2.xboxlive.com, proxy
-host, az416426.vo.msecnd.net, proxy
-host, az668014.vo.msecnd.net, proxy
-host-suffix, bing.com, proxy
-host-suffix, bing.net, proxy
-host-suffix, bingapis.com, proxy
-host-suffix, linkedin.com, proxy
-host-suffix, licdn.com, proxy
-host-suffix, msn.com, proxy
-host-suffix, skype.com, proxy
-host-suffix, aka.ms, proxy
-host-suffix, streaming.mediaservices.windows.net, proxy
-host-suffix, microsoft.com, proxy
-host-suffix, office.com, proxy
-host-suffix, office.net, proxy
-host-suffix, office365.com, proxy
-host-suffix, outlook.com, proxy
-host-suffix, live.com, proxy
-host-suffix, appcenter.ms, proxy
-host-suffix, msauth.net, proxy
-host-suffix, microsoftonline.com, proxy
-host-suffix, microsoftapp.net, proxy
-host-suffix, microsoft-falcon.io, proxy
-host-suffix, microsofttranslator.com, proxy
-host-suffix, api.cortana.ai, proxy
+host, assets1.xboxlive.com, PROXY🔁
+host, assets2.xboxlive.com, PROXY🔁
+host, az416426.vo.msecnd.net, PROXY🔁
+host, az668014.vo.msecnd.net, PROXY🔁
+host-suffix, bing.com, PROXY🔁
+host-suffix, bing.net, PROXY🔁
+host-suffix, bingapis.com, PROXY🔁
+host-suffix, linkedin.com, PROXY🔁
+host-suffix, licdn.com, PROXY🔁
+host-suffix, msn.com, PROXY🔁
+host-suffix, skype.com, PROXY🔁
+host-suffix, aka.ms, PROXY🔁
+host-suffix, streaming.mediaservices.windows.net, PROXY🔁
+host-suffix, microsoft.com, PROXY🔁
+host-suffix, office.com, PROXY🔁
+host-suffix, office.net, PROXY🔁
+host-suffix, office365.com, PROXY🔁
+host-suffix, outlook.com, PROXY🔁
+host-suffix, live.com, PROXY🔁
+host-suffix, appcenter.ms, PROXY🔁
+host-suffix, msauth.net, PROXY🔁
+host-suffix, microsoftonline.com, PROXY🔁
+host-suffix, microsoftapp.net, PROXY🔁
+host-suffix, microsoft-falcon.io, PROXY🔁
+host-suffix, microsofttranslator.com, PROXY🔁
+host-suffix, api.cortana.ai, PROXY🔁
 
 
 
@@ -45,14 +45,14 @@ host-suffix, gitlab.com, DIRECT
 host-suffix, gitlab.net, DIRECT
 
 # > Cloudflare
-host-suffix, warp.plus, PROXY
-host-suffix, cloudflare.com, PROXY
-host-suffix, cloudflare.net, PROXY
-host-suffix, cloudflareclient.com, PROXY
+host-suffix, warp.plus, PROXY🔁
+host-suffix, cloudflare.com, PROXY🔁
+host-suffix, cloudflare.net, PROXY🔁
+host-suffix, cloudflareclient.com, PROXY🔁
 
 # > Signal
 host-suffix, signal.org, DIRECT
-host-suffix, hcaptcha.com, PROXY
+host-suffix, hcaptcha.com, PROXY🔁
 host-suffix, signalcaptchas.org, DIRECT
 
 # > Tutanota
@@ -60,16 +60,16 @@ host-suffix, tuta.com, DIRECT
 host-suffix, tutanota.com, DIRECT
 
 # > Proton
-host-suffix, pm.me, proxy
-host-suffix, protonmail.com, proxy
-host-suffix, proton.me, proxy
+host-suffix, pm.me, PROXY🔁
+host-suffix, protonmail.com, PROXY🔁
+host-suffix, proton.me, PROXY🔁
 
 # > Deepl
 host-suffix, deepl.com, DIRECT
 
 # > Papago
-host-suffix, naver.com, proxy
-host-suffix, naver.net, proxy
+host-suffix, naver.com, PROXY🔁
+host-suffix, naver.net, PROXY🔁
 
 # > Mail
 host, s.uicdn.com, DIRECT
@@ -82,11 +82,11 @@ host-suffix, oath.com, DIRECT
 host-suffix, yahoo.com, DIRECT
 
 # > DuckDuckGo
-host-suffix, duckduckgo.com, proxy
+host-suffix, duckduckgo.com, PROXY🔁
 
 # > 代理工具
 host-keyword, nsloon, DIRECT
-host-keyword, quantumult, proxy
+host-keyword, quantumult, PROXY🔁
 
 # > 其他
 HOST-KEYWORD, mail, DIRECT
