@@ -162,10 +162,10 @@ host-suffix, tutanota.com, DIRECT
 host-suffix, deepl.com, DIRECT
 
 # > Mail
-host, s.uicdn.com, DIRECT
-host, cdn.cookielaw.org, DIRECT
-host-suffix, mail.com, DIRECT
-host-suffix, ui-portal.de, DIRECT
+host,s.uicdn.com, DIRECT
+host,cdn.cookielaw.org, DIRECT
+host-suffix,mail.com, DIRECT
+host-suffix,ui-portal.de, DIRECT
 DOMAIN,apple.imap.mail.yahoo.com
 DOMAIN,apple.smtp.mail.yahoo.com
 DOMAIN,imap-mail.outlook.com
@@ -178,7 +178,6 @@ DOMAIN,smtp.office365.com
 DOMAIN-SUFFIX,m.hotmail.com
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,mail.ru
-DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,pm.me
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,protonmail.ch
