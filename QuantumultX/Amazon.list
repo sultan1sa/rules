@@ -20,7 +20,13 @@ host-suffix,cloudflaretest.com,PROXY
 host-suffix,pacloudflare.com,PROXY
 host-suffix,trycloudflare.com,PROXY
 host-suffix,videodelivery.net,PROXY
-
+# > > Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,compute-pipe.com
+DOMAIN-SUFFIX,update.argotunnel.com
 # >> DNS & WARP
 host-suffix,warp.plus,PROXY
 host-suffix,cloudflarewarp.com,PROXY
