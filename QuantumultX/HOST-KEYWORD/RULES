@@ -45,15 +45,15 @@ host-suffix, gitlab.com, DIRECT
 host-suffix, gitlab.net, DIRECT
 
 # > Cloudflare
-host-suffix, warp.plus, PROXY🔁
-host-suffix, cloudflare.com, PROXY🔁
-host-suffix, cloudflare.net, PROXY🔁
-host-suffix, cloudflareclient.com, PROXY🔁
+host-suffix, warp.plus, AMAZON🛍
+host-suffix, cloudflare.com, AMAZON🛍
+host-suffix, cloudflare.net, AMAZON🛍
+host-suffix, cloudflareclient.com, AMAZON🛍
 
 # > Signal
-host-suffix, signal.org, DIRECT
-host-suffix, hcaptcha.com, PROXY🔁
-host-suffix, signalcaptchas.org, DIRECT
+host-suffix, signal.org, AMAZON🛍
+host-suffix, hcaptcha.com, AMAZON🛍
+host-suffix, signalcaptchas.org, AMAZON🛍
 
 # > Tutanota
 host-suffix, tuta.com, DIRECT
