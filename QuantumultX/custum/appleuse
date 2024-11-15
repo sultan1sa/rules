@@ -1,0 +1,61 @@
+# > AppleProxy
+USER-AGENT,com.apple.trustd*,apple proxy
+PROCESS-NAME,lookupviewservice,apple proxy
+DOMAIN,api-glb-sea.smoot.apple.com,apple proxy
+DOMAIN,books.itunes.apple.com,apple proxy
+DOMAIN,cvws.icloud-content.com,apple proxy
+DOMAIN,developer.apple.com,apple proxy
+DOMAIN,hls.itunes.apple.com,apple proxy
+DOMAIN,itunes.apple.com,apple proxy
+DOMAIN,lookup-api.apple.com,apple proxy
+DOMAIN,sandbox.itunes.apple.com,apple proxy
+DOMAIN,testflight.apple.com,apple proxy
+DOMAIN-SUFFIX,apple-dns.net,apple proxy
+DOMAIN-SUFFIX,apps.apple.com,apple proxy
+DOMAIN-SUFFIX,appsto.re,apple proxy
+DOMAIN-SUFFIX,blobstore.apple.com,apple proxy
+DOMAIN-SUFFIX,digicert.com,apple proxy
+DOMAIN-SUFFIX,ls.apple.com,apple proxy
+# > General,apple proxy
+IP-ASN,63707,apple proxy
+DOMAIN-SUFFIX,apple.com,DIRECT 
+DOMAIN-SUFFIX,icloud.com,apple proxy
+DOMAIN-SUFFIX,crashlytics.com,DIRECT
+
+# > Apple Music
+DOMAIN,aod.itunes.apple.com,apple proxy
+DOMAIN,api.smoot.apple.com,apple proxy
+DOMAIN,music.apple.com,apple proxy
+DOMAIN,mvod.itunes.apple.com,apple proxy
+
+# > App Store
+DOMAIN-SUFFIX,appstore.com,DIRECT
+USER-AGENT,com.apple.appstored*,DIRECT
+PROCESS-NAME,storedownloadd,DIRECT
+DOMAIN-SUFFIX,mzstatic.com,DIRECT
+DOMAIN,iosapps.itunes.apple.com,DIRECT
+DOMAIN,osxapps.itunes.apple.com,DIRECT
+USER-AGENT,com.apple.appstored*,DIRECT
+
+# > Update
+DOMAIN,supportdownload.apple.com,DIRECT
+DOMAIN,appldnld.apple.com,DIRECT
+DOMAIN,swcdn.apple.com,DIRECT
+DOMAIN,apptrailers.itunes.apple.com,DIRECT
+DOMAIN,updates-http.cdn-apple.com,DIRECT
+
+# > Map
+DOMAIN,gs-loc.apple.com,DIRECT
+
+# Apple 推送通知 - 当使用 Apple 推送通知服务 (APNS) 时，Apple 设备需要访问以下主机。
+DOMAIN-SUFFIX, push.apple.com,DIRECT
+DOMAIN, identity.apple.com,apple proxy
+IP-CIDR, 17.249.0.0/16,DIRECT
+IP-CIDR, 17.252.0.0/16,DIRECT
+IP-CIDR, 17.57.144.0/22,DIRECT
+IP-CIDR, 17.188.128.0/18,DIRECT
+IP-CIDR, 17.188.20.0/23,DIRECT
+IP-CIDR6, 2620:149:a44::/48,DIRECT
+IP-CIDR6, 2403:300:a42::/48,DIRECT
+IP-CIDR6, 2403:300:a51::/48,DIRECT
+IP-CIDR6, 2a01:b740:a42::/48,DIRECT
