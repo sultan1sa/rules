@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,digicert.com,apple proxy
 DOMAIN-SUFFIX,ls.apple.com,apple proxy
 # > General,apple proxy
 IP-ASN,63707,apple proxy
+IP-ASN,6185,apple proxy
+IP-ASN,2709,apple proxy
+IP-ASN,63707,apple proxy
 DOMAIN-SUFFIX,apple.com,DIRECT 
 DOMAIN-SUFFIX,icloud.com,apple proxy
 DOMAIN-SUFFIX,crashlytics.com,DIRECT
