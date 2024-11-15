@@ -10,33 +10,7 @@ HOST-KEYWORD,whatsapp
 
 #Apple Push Services
 HOST-KEYWORD,push.apple.com
-#Apple Time Synchronization
-HOST,time.apple.com
-#Apple Weather Service
-HOST-KEYWORD,weather-edge.apple.com
-HOST-KEYWORD,weather-adge.apple.com
-HOST-SUFFIX,weather-data.apple.com
-HOST-SUFFIX,weather-map.apple.com
-HOST-SUFFIX,weather-analytics-events.apple.com
-#Apple Insider Services
-HOST-KEYWORD,buy.itunes.apple.com
-#Apple icloud
-HOST-KEYWORD,icloud.com
-#Apple Input Method Related Services
-HOST-KEYWORD,api.smoot.apple.com
-HOST-KEYWORD,api.smoot.apple.cn
-#Apple iMessage Service
-HOST,init.ess.apple.com
-#Apple Other Services
-HOST-KEYWORD,ssl.apple.com
-HOST-KEYWORD,humb.apple.com
-HOST,smp-device-content.apple.com
-HOST-KEYWORD,api-adservices.apple.com
-HOST-KEYWORD,ls.apple.com
-HOST-KEYWORD,gsa.apple.com
-HOST-KEYWORD,ess.apple.com
-#apple app store
-HOST,itunes.apple.com
+
 
 # 内容：Whatsapp
 # 数量：16条
