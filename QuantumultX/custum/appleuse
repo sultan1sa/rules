@@ -24,7 +24,12 @@ IP-ASN,63707,apple proxy
 DOMAIN-SUFFIX,apple.com,DIRECT 
 DOMAIN-SUFFIX,icloud.com,apple proxy
 DOMAIN-SUFFIX,crashlytics.com,DIRECT
-
+HOST,mask-api.fe.apple-dns.net,PROXY
+HOST,mask-api.icloud.com,PROXY
+HOST,mask-t.apple-dns.net,PROXY
+HOST,mask.apple-dns.net,PROXY
+HOST-SUFFIX,mask-h2.icloud.com,PROXY
+HOST-SUFFIX,mask.icloud.com,PROXY
 # > Apple Music
 DOMAIN,aod.itunes.apple.com,apple proxy
 DOMAIN,api.smoot.apple.com,apple proxy
