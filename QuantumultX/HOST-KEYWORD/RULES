@@ -27,20 +27,11 @@ host-suffix, microsofttranslator.com, PROXY🔁
 host-suffix, api.cortana.ai, PROXY🔁
 
 
-
-
-
-# > Tutanota
-host-suffix, tuta.com, DIRECT
-host-suffix, tutanota.com, DIRECT
-
 # > Proton
 host-suffix, pm.me, DIRECT
 host-suffix, protonmail.com, DIRECT
 host-suffix, proton.me, DIRECT
 
-# > Deepl
-host-suffix, deepl.com, DIRECT
 
 # > Papago
 host-suffix, naver.com, PROXY🔁
