@@ -122,11 +122,6 @@ host,redirector.c.bigcache.googleapis.com,PROXY
 host,redirector.gvt1.com,PROXY
 host,safebrowsing.googleapis.com,PROXY
 host,safebrowsing-cache.google.com,PROXY
-host-suffix,dl.google.com,PROXY
-host-suffix,dl.l.google.com,PROXY
-host-suffix,google.cn,PROXY
-host-suffix,googletraveladservices.com,PROXY
-host-suffix,ssl.gstatic.com,PROXY
 host-suffix,tools.google.com,PROXY
 host-suffix,tools.l.google.com,PROXY
 host-suffix,update.googleapis.com,PROXY
