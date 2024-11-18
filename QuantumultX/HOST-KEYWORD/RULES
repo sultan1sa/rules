@@ -29,40 +29,15 @@ host-suffix, api.cortana.ai, PROXY🔁
 
 
 
-# > GitHub
-host-suffix, github.blog, DIRECT
-host-suffix, github.com, DIRECT
-host-suffix, github.io, DIRECT
-host-suffix, githubapp.com, DIRECT
-host-suffix, rawgithub.com, DIRECT
-host-suffix, githubassets.com, DIRECT
-host-suffix, githubusercontent.com, DIRECT
-host-keyword, github, DIRECT
-
-# > Gitlab
-host-suffix, gitlab.io, DIRECT
-host-suffix, gitlab.com, DIRECT
-host-suffix, gitlab.net, DIRECT
-
-# > Cloudflare
-host-suffix, warp.plus, AMAZON🛍
-host-suffix, cloudflare.com, AMAZON🛍
-host-suffix, cloudflare.net, AMAZON🛍
-host-suffix, cloudflareclient.com, AMAZON🛍
-
-# > Signal
-host-suffix, signal.org, AMAZON🛍
-host-suffix, hcaptcha.com, AMAZON🛍
-host-suffix, signalcaptchas.org, AMAZON🛍
 
 # > Tutanota
 host-suffix, tuta.com, DIRECT
 host-suffix, tutanota.com, DIRECT
 
 # > Proton
-host-suffix, pm.me, PROXY🔁
-host-suffix, protonmail.com, PROXY🔁
-host-suffix, proton.me, PROXY🔁
+host-suffix, pm.me, DIRECT
+host-suffix, protonmail.com, DIRECT
+host-suffix, proton.me, DIRECT
 
 # > Deepl
 host-suffix, deepl.com, DIRECT
