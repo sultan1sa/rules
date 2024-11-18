@@ -90,24 +90,7 @@ HOST-SUFFIX,website-files.com
 HOST-SUFFIX,wix.com
 HOST-SUFFIX,yoti.com
 HOST-SUFFIX,zoominfo.com
-# > 证书验证
-HOST,digitalcertvalidation.com
-HOST,ts-ocsp.ws.symantec.com
-HOST-SUFFIX,amazontrust.com
-HOST-SUFFIX,digicert-cn.com
-HOST-SUFFIX,digicert.com
-HOST-SUFFIX,digitalcertvalidation.com
-HOST-SUFFIX,lencr.org
-HOST-SUFFIX,ocsp-certum.com
-HOST-SUFFIX,rapidssl.com
-HOST-SUFFIX,sectigo.com
-HOST-SUFFIX,symcb.com
-HOST-SUFFIX,symcd.com
-HOST-SUFFIX,thawte.com
-HOST-SUFFIX,trust-provider.com
-HOST-SUFFIX,usertrust.com
-HOST-SUFFIX,verisign.com
-IP-CIDR,152.195.38.76/32,no-resolve
+
 # > CDN
 HOST-SUFFIX,akamaiedge.net
 HOST-SUFFIX,amazonwebservicesss.com
@@ -203,7 +186,6 @@ HOST-SUFFIX,machbbs.com
 HOST-SUFFIX,metacubex.one
 HOST-SUFFIX,mymuwu.net
 HOST-SUFFIX,nodeseek.com
-HOST-SUFFIX,notion.site
 HOST-SUFFIX,oliverhou.com
 HOST-SUFFIX,pc841.com
 HOST-SUFFIX,pianshen.com
@@ -228,7 +210,6 @@ HOST-SUFFIX,xiazai.cab
 HOST-SUFFIX,xiazai.vin
 
 # APP工具
-HOST-SUFFIX,api.nolanstore.cc
 HOST-SUFFIX,arcadia.cool
 HOST-SUFFIX,boxjs.app
 HOST-SUFFIX,citrix.com
@@ -435,8 +416,6 @@ HOST-SUFFIX,ios.sxqifeng.com
 HOST-SUFFIX,marvelcdb.com
 HOST-SUFFIX,xxxx.com
 
-
-# ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复
 # SteamCN
 HOST,csgo.wmsj.cn
