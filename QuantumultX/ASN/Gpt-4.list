@@ -1,0 +1,61 @@
+#https://gitlab.com/lodepuly/vpn_tool/-/blob/main/Tool/Loon/Rule/GPT AI.list
+# 2023-12-16 09:55
+
+# ChatGPT
+HOST, api.statsig.com, GPT AI
+HOST, browser-intake-datadoghq.com, GPT AI
+HOST, cdn.openai.com, GPT AI
+HOST, chat.openai.com, GPT AI
+HOST, chat.openai.com.cdn.cloudflare.net, GPT AI
+HOST, ios.chat.openai.com, GPT AI
+HOST, o33249.ingest.sentry.io, GPT AI
+HOST, openai-api.arkoselabs.com, GPT AI
+HOST, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, GPT AI
+HOST, openaicomproductionae4b.blob.core.windows.net, GPT AI
+HOST, production-openaicom-storage.azureedge.net, GPT AI
+HOST, static.cloudflareinsights.com, GPT AI
+HOST-SUFFIX, algolia.net, GPT AI
+HOST-SUFFIX, auth0.com, GPT AI
+HOST-SUFFIX, cdn.cloudflare.net, GPT AI
+HOST-SUFFIX, challenges.cloudflare.com, GPT AI
+HOST-SUFFIX, client-api.arkoselabs.com, GPT AI
+HOST-SUFFIX, events.statsigapi.net, GPT AI
+HOST-SUFFIX, featuregates.org, GPT AI
+HOST-SUFFIX, identrust.com, GPT AI
+HOST-SUFFIX, intercom.io, GPT AI
+HOST-SUFFIX, intercomcdn.com, GPT AI
+HOST-SUFFIX, launchdarkly.com, GPT AI
+HOST-SUFFIX, oaistatic.com, GPT AI
+HOST-SUFFIX, oaiusercontent.com, GPT AI
+HOST-SUFFIX, observeit.net, GPT AI
+HOST-SUFFIX, openai.com, GPT AI
+HOST-SUFFIX, openaiapi-site.azureedge.net, GPT AI
+HOST-SUFFIX, openaicom.imgix.net, GPT AI
+HOST-SUFFIX, poe.com, GPT AI
+HOST-SUFFIX, segment.io, GPT AI
+HOST-SUFFIX, sentry.io, GPT AI
+HOST-KEYWORD, openaicom-api, GPT AI
+
+# ChatGPT Voice
+HOST-SUFFIX, chatgpt.livekit.cloud, GPT AI
+HOST-SUFFIX, host.livekit.cloud, GPT AI
+HOST-SUFFIX, turn.livekit.cloud, GPT AI
+IP-CIDR, 104.238.150.13/32, GPT AI
+IP-CIDR, 143.110.232.239/32, GPT AI
+IP-CIDR, 143.198.200.27/32, GPT AI
+IP-CIDR, 159.89.204.203/32, GPT AI
+IP-CIDR, 164.92.115.213/32, GPT AI
+IP-CIDR, 164.92.71.155/32, GPT AI
+IP-CIDR, 198.13.38.242/32, GPT AI
+IP-CIDR, 207.148.108.93/32, GPT AI
+IP-CIDR, 24.199.123.28/32, GPT AI
+IP-CIDR, 45.32.12.145/32, GPT AI
+IP-CIDR, 45.55.196.68/32, GPT AI
+IP-CIDR, 45.76.214.191/32, GPT AI
+IP-CIDR, 64.23.132.171/32, GPT AI
+IP6-CIDR, 2001:19f0:7001:1149:5400:4ff:feac:a0b3/128, GPT AI
+IP6-CIDR, 2001:19f0:7001:55b3:5400:4ff:feab:ba8f/128, GPT AI
+IP6-CIDR, 2001:19f0:7001:8e6:5400:4ff:feab:b953/128, GPT AI
+IP6-CIDR, 2401:c080:1000:47c5:5400:4ff:feab:f724/128, GPT AI
+IP-ASN, 14061, GPT AI
+IP-ASN, 20473, GPT AI
