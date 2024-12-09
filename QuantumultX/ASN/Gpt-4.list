@@ -16,8 +16,6 @@ HOST, production-openaicom-storage.azureedge.net, GPT AI
 HOST, static.cloudflareinsights.com, GPT AI
 HOST-SUFFIX, algolia.net, GPT AI
 HOST-SUFFIX, auth0.com, GPT AI
-HOST-SUFFIX, cdn.cloudflare.net, GPT AI
-HOST-SUFFIX, challenges.cloudflare.com, GPT AI
 HOST-SUFFIX, client-api.arkoselabs.com, GPT AI
 HOST-SUFFIX, events.statsigapi.net, GPT AI
 HOST-SUFFIX, featuregates.org, GPT AI
