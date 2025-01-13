@@ -1,6 +1,6 @@
 1. Anti-ad for adguard  
 https://anti-ad.net/adguard.txt  
-
+ 
 2. Anti-ad-Easylist  
 https://anti-ad.net/easylist.txt  
 
